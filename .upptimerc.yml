@@ -12,7 +12,7 @@ sites:
 # - name: Whoogle
 #   url: https://whoogle.linerly.repl.co
   - name: LinerlyBot
-    url: https://linerlybot.linerly.repl.co
+    url: https://linerlybot-rewritten.linerly.repl.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
