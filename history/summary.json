@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/linerlybot-rewritten.linerly.repl.co",
     "slug": "linerly-bot",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "48.32%",
+    "uptimeDay": "48.32%",
+    "uptimeWeek": "48.32%",
+    "uptimeMonth": "48.32%",
+    "uptimeYear": "48.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-18": 19,
+      "2021-08-18": 29,
       "2021-08-17": 10
     }
   }
