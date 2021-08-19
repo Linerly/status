@@ -5,14 +5,18 @@ repo: status # The name of this repository
 sites:
   - name: Website
     url: https://linerly.github.io
+    icon: https://linerly.github.io/assets/favicon.ico
   - name: Blog
     url: https://linerly.github.io/blog
+    icon: https://linerly.github.io/assets/favicon.ico
   - name: Searx
     url: https://searx.linerly.repl.co
+    icon: view-source:https://searx.linerly.repl.co/static/themes/oscar/img/favicon.png
 # - name: Whoogle
 #   url: https://whoogle.linerly.repl.co
   - name: LinerlyBot
     url: https://linerlybot-rewritten.linerly.repl.co
+    icon: https://linerly.github.io/assets/linerlybot/linerlybot.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,6 +34,22 @@ status-website:
       href: https://linerly.github.io
     - title: Blog
       href: https://linerly.github.io/blog
+
+status-website:
+  name: "Linerly's Services Uptime"
+  logoUrl: https://linerly.github.io/assets/new-logo.png
+  theme: linerly
+  css: "@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");body{font-family:'Quicksand'}"
+  favicon: "https://linerly.github.io/assets/new-logo.png"
+  metaTags:
+    - name: "theme-color"
+      content: "#1e90ff"
+    - name: "author"
+      content: "Linerly"
+    - name: "description"
+      content: "Here you can see Linerly's services status."
+    - name: "keywords"
+      content: "Linerly, Status, Uptime, Downtime, Up, Down, Online, Offline, Upptime, GitHub, Pages, GitHub Pages, CI"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
