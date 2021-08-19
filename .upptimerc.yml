@@ -43,7 +43,7 @@ status-website:
     - name: "author"
       content: "Linerly"
     - name: "description"
-      content: "Here you can see Linerly's services status."
+      content: "Here you can see Linerly's service status."
     - name: "keywords"
       content: "Linerly, Status, Uptime, Downtime, Up, Down, Online, Offline, Upptime, GitHub, Pages, GitHub Pages, CI"
 
