@@ -36,7 +36,7 @@ status-website:
   logoUrl: https://linerly.github.io/assets/new-logo.png
   favicon: https://linerly.github.io/assets/new-logo.png
   faviconSvg: https://linerly.github.io/assets/new-logo.svg
-  theme: dark
+  theme: linerly
   metaTags:
     - name: "theme-color"
       content: "#1e90ff"
