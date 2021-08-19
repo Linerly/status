@@ -1,8 +1,8 @@
 {
   "background_color": "#ffffff",
-  "theme_color": "#1e90ff",
-  "name": "Linerly's Services Uptime",
-  "short_name": "Linerly's Services Uptime",
+  "theme_color": "#333333",
+  "name": "Upptime",
+  "short_name": "Upptime",
   "display": "minimal-ui",
   "start_url": "/",
   "icons": [
