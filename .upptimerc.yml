@@ -38,8 +38,8 @@ status-website:
 status-website:
   name: "Linerly's Services Uptime"
   logoUrl: https://linerly.github.io/assets/new-logo.png
-  theme: linerly
   favicon: https://linerly.github.io/assets/new-logo.png
+  theme: dark
   metaTags:
     - name: "theme-color"
       content: "#1e90ff"
