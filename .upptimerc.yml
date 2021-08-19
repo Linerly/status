@@ -21,13 +21,15 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "Linerly's Service Status"
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "This is where you can see all of my service's status."
+  introTitle: "This is where you can see all of my service's status."
+  introMessage: "All powered by Upptime!"
   navbar:
     - title: Status
       href: /
     - title: Website
       href: https://linerly.github.io
+    - title: Blog
+      href: https://linerly.github.io/blog
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
