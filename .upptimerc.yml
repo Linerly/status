@@ -39,8 +39,7 @@ status-website:
   name: "Linerly's Services Uptime"
   logoUrl: https://linerly.github.io/assets/new-logo.png
   theme: linerly
-  css: "@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');body{font-family:'Quicksand'}"
-  favicon: "https://linerly.github.io/assets/new-logo.png"
+  favicon: https://linerly.github.io/assets/new-logo.png
   metaTags:
     - name: "theme-color"
       content: "#1e90ff"
