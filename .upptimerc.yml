@@ -34,7 +34,6 @@ status-website:
       href: https://linerly.github.io
     - title: Blog
       href: https://linerly.github.io/blog
-  name: "Linerly's Services Uptime"
   logoUrl: https://linerly.github.io/assets/new-logo.png
   favicon: https://linerly.github.io/assets/new-logo.png
   theme: linerly
