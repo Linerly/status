@@ -23,10 +23,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://linerly.github.io/assets/new-logo.svg
   name: "Linerly's Service Status"
   introTitle: "This is where you can see all of my service's status."
-  introMessage: "All powered by Upptime!"
+  introMessage: "*All powered by Upptime!*"
   navbar:
     - title: Status
       href: /
@@ -34,12 +34,10 @@ status-website:
       href: https://linerly.github.io
     - title: Blog
       href: https://linerly.github.io/blog
-
-status-website:
   name: "Linerly's Services Uptime"
   logoUrl: https://linerly.github.io/assets/new-logo.png
   favicon: https://linerly.github.io/assets/new-logo.png
-  theme: dark
+  theme: linerly
   metaTags:
     - name: "theme-color"
       content: "#1e90ff"
