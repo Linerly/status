@@ -12,11 +12,14 @@ sites:
   - name: Searx
     url: https://searx.linerly.repl.co
     icon: view-source:https://searx.linerly.repl.co/static/themes/oscar/img/favicon.png
+    __dangerous__body_down: "Run The Repl"
 # - name: Whoogle
 #   url: https://whoogle.linerly.repl.co
+#   __dangerous__body_down: "Run The Repl"
   - name: LinerlyBot
     url: https://linerlybot-rewritten.linerly.repl.co
     icon: https://linerly.github.io/assets/linerlybot/linerlybot.png
+    __dangerous__body_down: "Run The Repl"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
