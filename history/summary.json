@@ -4,10 +4,10 @@
     "url": "https://linerly.github.io",
     "icon": "https://linerly.github.io/assets/favicon.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 512,
@@ -15,16 +15,18 @@
     "timeWeek": 624,
     "timeMonth": 512,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 1
+    }
   },
   {
     "name": "Blog",
     "url": "https://linerly.github.io/blog",
     "icon": "https://linerly.github.io/assets/favicon.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 26,
     "timeMonth": 147,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 0
+    }
   },
   {
     "name": "Searx",
@@ -41,11 +45,11 @@
     "icon": "view-source:https://searx.linerly.repl.co/static/themes/oscar/img/favicon.png",
     "slug": "searx",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 1205,
     "timeDay": 203,
     "timeWeek": 275,
@@ -63,11 +67,11 @@
     "icon": "https://linerly.github.io/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot",
     "status": "up",
-    "uptime": "98.84%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "98.84%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 831,
     "timeDay": 186,
     "timeWeek": 267,
