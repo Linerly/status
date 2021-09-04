@@ -18,8 +18,15 @@ sites:
       - 0
 # - name: Whoogle
 #   url: https://whoogle.linerly.repl.co
-  - name: LinerlyBot
+  - name: LinerlyBot (Discord)
     url: https://linerlybot-rewritten.linerly.repl.co
+    icon: https://linerly.github.io/assets/linerlybot/linerlybot.png
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 0
+  - name: LinerlyBot (Matrix)
+    url: https://linerlybot-matrix.linerly.repl.co
     icon: https://linerly.github.io/assets/linerlybot/linerlybot.png
     expectedStatusCodes:
       - 200
