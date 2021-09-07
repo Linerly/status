@@ -91,19 +91,19 @@
     "url": "https://linerlybot-matrix.linerly.repl.co",
     "icon": "https://linerly.github.io/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-matrix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 372,
     "timeDay": 382,
     "timeWeek": 372,
     "timeMonth": 372,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2021-09-07": 0
+      "2021-09-07": 7
     }
   }
 ]
