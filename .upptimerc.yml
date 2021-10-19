@@ -25,13 +25,6 @@ sites:
       - 200
       - 201
       - 0
-  - name: LinerlyBot (Matrix)
-    url: https://linerlybot-matrix.linerly.repl.co
-    icon: https://linerly.github.io/assets/linerlybot/linerlybot.png
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
