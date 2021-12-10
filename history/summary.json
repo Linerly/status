@@ -111,18 +111,16 @@
     "icon": "https://matrix.org/favicon-32x32.png",
     "slug": "matrix-homeserver",
     "status": "up",
-    "uptime": "4.11%",
-    "uptimeDay": "4.11%",
-    "uptimeWeek": "4.11%",
-    "uptimeMonth": "4.11%",
-    "uptimeYear": "4.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1050,
     "timeDay": 1050,
     "timeWeek": 1050,
     "timeMonth": 1050,
     "timeYear": 1050,
-    "dailyMinutesDown": {
-      "2021-12-10": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
