@@ -10,35 +10,19 @@ sites:
     url: https://linerly.github.io/blog
     icon: https://linerly.github.io/assets/favicon.ico
   - name: Searx
-    url: https://searx.linerly.repl.co
+    url: https://searx.linerly.repl.co/stats
     icon: https://searx.linerly.repl.co/static/themes/oscar/img/favicon.png
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 0
   - name: SearXNG
-    url: https://searxng.linerly.repl.co
+    url: https://searxng.linerly.repl.co/stats
     icon: https://searxng.linerly.repl.co/static/themes/oscar/img/favicon.png
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 0
 # - name: Whoogle
 #   url: https://whoogle.linerly.repl.co
   - name: LinerlyBot (Discord)
     url: https://linerlybot-rewritten.linerly.repl.co
     icon: https://linerly.github.io/assets/linerlybot/linerlybot.png
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 0
   - name: Matrix Homeserver
     url: https://matrix.kotakebun.com/_matrix/client/versions
     icon: https://matrix.org/favicon-32x32.png
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
