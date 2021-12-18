@@ -74,18 +74,19 @@
     "url": "https://searxng.linerly.repl.co/stats",
     "icon": "https://searxng.linerly.repl.co/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 345,
     "timeDay": 347,
     "timeWeek": 360,
     "timeMonth": 345,
     "timeYear": 345,
     "dailyMinutesDown": {
+      "2021-12-18": 2,
       "2021-12-14": 27
     }
   },
@@ -94,9 +95,9 @@
     "url": "https://linerlybot-rewritten.linerly.repl.co",
     "icon": "https://linerly.github.io/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +106,9 @@
     "timeWeek": 443,
     "timeMonth": 401,
     "timeYear": 427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-18": 0
+    }
   },
   {
     "name": "Matrix Homeserver",
