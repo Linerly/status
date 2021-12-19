@@ -75,18 +75,18 @@
     "icon": "https://searxng.linerly.repl.co/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
     "status": "down",
-    "uptime": "88.17%",
-    "uptimeDay": "1.83%",
-    "uptimeWeek": "85.71%",
-    "uptimeMonth": "88.17%",
-    "uptimeYear": "88.17%",
+    "uptime": "88.00%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "85.47%",
+    "uptimeMonth": "88.00%",
+    "uptimeYear": "88.00%",
     "time": 345,
     "timeDay": 0,
     "timeWeek": 355,
     "timeMonth": 345,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2021-12-19": 79,
+      "2021-12-19": 103,
       "2021-12-18": 1335,
       "2021-12-14": 27
     }
@@ -96,9 +96,9 @@
     "url": "https://linerlybot-rewritten.linerly.repl.co",
     "icon": "https://linerly.github.io/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.02%",
+    "uptimeDay": "97.01%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -108,6 +108,7 @@
     "timeMonth": 874,
     "timeYear": 571,
     "dailyMinutesDown": {
+      "2021-12-19": 0,
       "2021-12-18": 43
     }
   },
