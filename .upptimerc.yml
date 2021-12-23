@@ -16,7 +16,7 @@ sites:
     url: https://searxng.linerly.repl.co
     icon: https://searxng.linerly.repl.co/static/themes/oscar/img/favicon.png
   - name: Whoogle
-    url: http://whoogle.linerly.repl.co
+    url: https://whoogle.linerly.repl.co
     icon: https://whoogle.linerly.repl.co/static/img/favicon/favicon-32x32.png
   - name: LinerlyBot (Discord)
     url: https://linerlybot-rewritten.linerly.repl.co
