@@ -126,7 +126,7 @@
     "timeMonth": 1150,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2022-02-23": 1,
+      "2022-02-23": 8,
       "2022-02-22": 556,
       "2022-02-21": 323,
       "2022-02-20": 1361,
@@ -199,7 +199,7 @@
     "uptime": "99.55%",
     "uptimeDay": "97.88%",
     "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.62%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "99.55%",
     "time": 568,
     "timeDay": 306,
