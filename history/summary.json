@@ -53,9 +53,9 @@
     "slug": "searx",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "98.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.65%",
     "time": 1652,
     "timeDay": 503,
@@ -63,7 +63,6 @@
     "timeMonth": 3188,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2022-03-16": 9,
       "2022-03-15": 19,
       "2022-03-13": 21,
       "2022-03-12": 16,
@@ -145,12 +144,12 @@
     "url": "https://whoogle.linerly.repl.co",
     "icon": "https://whoogle.linerly.repl.co/static/img/favicon/favicon-32x32.png",
     "slug": "whoogle",
-    "status": "up",
-    "uptime": "57.27%",
-    "uptimeDay": "82.13%",
-    "uptimeWeek": "63.82%",
-    "uptimeMonth": "62.08%",
-    "uptimeYear": "57.27%",
+    "status": "down",
+    "uptime": "57.32%",
+    "uptimeDay": "82.12%",
+    "uptimeWeek": "64.32%",
+    "uptimeMonth": "62.19%",
+    "uptimeYear": "57.32%",
     "time": 1731,
     "timeDay": 1453,
     "timeWeek": 2655,
@@ -233,7 +232,7 @@
       "2022-01-01": 1339,
       "2021-12-31": 37,
       "2021-12-30": 1281,
-      "2021-12-29": 38
+      "2021-12-29": 4
     }
   },
   {
