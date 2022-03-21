@@ -1,7 +1,7 @@
 url: https://whoogle.linerly.repl.co
-status: up
-code: 200
-responseTime: 1220
-lastUpdated: 2022-03-21T11:31:48.462Z
+status: down
+code: 502
+responseTime: 364
+lastUpdated: 2022-03-21T14:24:03.966Z
 startTime: Thu Dec 23 2021 01:09:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
