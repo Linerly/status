@@ -157,12 +157,12 @@
     "url": "https://whoogle.linerly.repl.co",
     "icon": "https://whoogle.linerly.repl.co/static/img/favicon/favicon-32x32.png",
     "slug": "whoogle",
-    "status": "up",
-    "uptime": "61.29%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "30.73%",
+    "status": "down",
+    "uptime": "61.32%",
+    "uptimeDay": "1.36%",
+    "uptimeWeek": "30.72%",
     "uptimeMonth": "56.65%",
-    "uptimeYear": "61.29%",
+    "uptimeYear": "61.32%",
     "time": 2163,
     "timeDay": 986,
     "timeWeek": 4621,
@@ -240,7 +240,7 @@
       "2022-01-14": 1257,
       "2022-01-13": 1319,
       "2022-01-12": 1268,
-      "2022-01-11": 574
+      "2022-01-11": 535
     }
   },
   {
