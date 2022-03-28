@@ -19,8 +19,8 @@ sites:
     url: https://whoogle.linerly.tk
     icon: https://whoogle.linerly.tk/static/img/favicon/favicon-32x32.png
   - name: LinerlyBot (Discord)
-    url: https://linerlybot-rewritten.linerly.tk
-    icon: https://linerly.github.io/assets/linerlybot/linerlybot.png
+    url: https://linerlybot-discord.linerly.tk
+    icon: https://linerly.tk/assets/linerlybot/linerlybot.png
   - name: Matrix Homeserver
     url: https://matrix.kotakebun.com/_matrix/client/versions
     icon: https://matrix.org/favicon-32x32.png
