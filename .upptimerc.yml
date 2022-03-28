@@ -4,22 +4,22 @@ repo: status # The name of this repository
 
 sites:
   - name: Website
-    url: https://linerly.github.io
-    icon: https://linerly.github.io/assets/favicon.ico
+    url: https://linerly.tk
+    icon: https://linerly.tk/assets/favicon.ico
   - name: Blog
-    url: https://linerly.github.io/blog
-    icon: https://linerly.github.io/assets/favicon.ico
+    url: https://linerly.tk/blog
+    icon: https://linerly.tk/assets/favicon.ico
   - name: Searx
-    url: https://searx.linerly.repl.co
-    icon: https://searx.linerly.repl.co/static/themes/oscar/img/favicon.png
+    url: https://searx.linerly.tk
+    icon: https://searx.linerly.tk/static/themes/oscar/img/favicon.png
   - name: SearXNG
-    url: https://searxng.linerly.repl.co
-    icon: https://searxng.linerly.repl.co/static/themes/oscar/img/favicon.png
+    url: https://searxng.linerly.tk
+    icon: https://searxng.linerly.tk/static/themes/oscar/img/favicon.png
   - name: Whoogle
-    url: https://whoogle.linerly.repl.co
-    icon: https://whoogle.linerly.repl.co/static/img/favicon/favicon-32x32.png
+    url: https://whoogle.linerly.tk
+    icon: https://whoogle.linerly.tk/static/img/favicon/favicon-32x32.png
   - name: LinerlyBot (Discord)
-    url: https://linerlybot-rewritten.linerly.repl.co
+    url: https://linerlybot-rewritten.linerly.tk
     icon: https://linerly.github.io/assets/linerlybot/linerlybot.png
   - name: Matrix Homeserver
     url: https://matrix.kotakebun.com/_matrix/client/versions
@@ -37,12 +37,12 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://linerly.github.io
+      href: https://linerly.tk
     - title: Blog
-      href: https://linerly.github.io/blog
-  logoUrl: https://linerly.github.io/assets/new-logo.png
-  favicon: https://linerly.github.io/assets/new-logo.png
-  faviconSvg: https://linerly.github.io/assets/new-logo.svg
+      href: https://linerly.tk/blog
+  logoUrl: https://linerly.tk/assets/new-logo.png
+  favicon: https://linerly.tk/assets/new-logo.png
+  faviconSvg: https://linerly.tk/assets/new-logo.svg
   theme: ocean
   metaTags:
     - name: "theme-color"
