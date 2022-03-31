@@ -160,12 +160,12 @@
     "url": "https://whoogle.linerly.tk",
     "icon": "https://whoogle.linerly.tk/static/img/favicon/favicon-32x32.png",
     "slug": "whoogle",
-    "status": "up",
-    "uptime": "73.47%",
-    "uptimeDay": "56.65%",
-    "uptimeWeek": "43.85%",
+    "status": "down",
+    "uptime": "74.12%",
+    "uptimeDay": "56.63%",
+    "uptimeWeek": "43.84%",
     "uptimeMonth": "49.05%",
-    "uptimeYear": "73.47%",
+    "uptimeYear": "74.12%",
     "time": 2780,
     "timeDay": 7661,
     "timeWeek": 5826,
@@ -223,8 +223,7 @@
       "2022-02-11": 266,
       "2022-02-10": 859,
       "2022-02-09": 1440,
-      "2022-02-08": 615,
-      "2022-02-07": 429
+      "2022-02-08": 124
     }
   },
   {
@@ -232,12 +231,12 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "98.07%",
-    "uptimeDay": "71.32%",
+    "status": "down",
+    "uptime": "98.08%",
+    "uptimeDay": "71.31%",
     "uptimeWeek": "75.10%",
-    "uptimeMonth": "88.96%",
-    "uptimeYear": "98.07%",
+    "uptimeMonth": "89.04%",
+    "uptimeYear": "98.08%",
     "time": 1727,
     "timeDay": 2247,
     "timeWeek": 3687,
@@ -274,7 +273,7 @@
       "2022-03-02": 38,
       "2022-03-01": 43,
       "2022-02-28": 1030,
-      "2022-02-27": 45
+      "2022-02-27": 27
     }
   },
   {
