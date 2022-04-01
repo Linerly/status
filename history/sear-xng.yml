@@ -1,7 +1,7 @@
 url: https://searxng.linerly.tk
-status: up
-code: 200
-responseTime: 628
-lastUpdated: 2022-04-01T07:28:30.874Z
+status: down
+code: 500
+responseTime: 7356
+lastUpdated: 2022-04-01T08:03:55.837Z
 startTime: Fri Dec 10 2021 14:18:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
