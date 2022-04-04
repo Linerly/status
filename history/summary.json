@@ -12,7 +12,7 @@
     "uptimeYear": "98.91%",
     "time": 188,
     "timeDay": 172,
-    "timeWeek": 208,
+    "timeWeek": 215,
     "timeMonth": 303,
     "timeYear": 188,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "uptimeYear": "98.92%",
     "time": 112,
     "timeDay": 54,
-    "timeWeek": 167,
+    "timeWeek": 144,
     "timeMonth": 170,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -51,15 +51,15 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "97.13%",
-    "uptimeDay": "89.62%",
-    "uptimeWeek": "76.11%",
-    "uptimeMonth": "89.63%",
-    "uptimeYear": "97.13%",
+    "status": "down",
+    "uptime": "97.17%",
+    "uptimeDay": "89.61%",
+    "uptimeWeek": "76.54%",
+    "uptimeMonth": "89.62%",
+    "uptimeYear": "97.17%",
     "time": 2360,
     "timeDay": 4728,
-    "timeWeek": 3489,
+    "timeWeek": 3560,
     "timeMonth": 3379,
     "timeYear": 2360,
     "dailyMinutesDown": {
@@ -93,7 +93,7 @@
       "2022-03-06": 67,
       "2022-03-05": 30,
       "2022-03-04": 126,
-      "2022-03-03": 67
+      "2022-03-03": 17
     }
   },
   {
@@ -109,8 +109,8 @@
     "uptimeYear": "98.28%",
     "time": 1895,
     "timeDay": 7356,
-    "timeWeek": 3483,
-    "timeMonth": 3016,
+    "timeWeek": 3519,
+    "timeMonth": 3012,
     "timeYear": 1895,
     "dailyMinutesDown": {
       "2022-04-04": 139,
@@ -151,13 +151,13 @@
     "slug": "matrix-homeserver",
     "status": "up",
     "uptime": "96.82%",
-    "uptimeDay": "86.69%",
+    "uptimeDay": "96.48%",
     "uptimeWeek": "98.10%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "96.82%",
     "time": 1445,
-    "timeDay": 1305,
-    "timeWeek": 1200,
+    "timeDay": 719,
+    "timeWeek": 1238,
     "timeMonth": 1395,
     "timeYear": 1445,
     "dailyMinutesDown": {
