@@ -98,11 +98,11 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "97.92%",
-    "uptimeDay": "96.69%",
+    "uptimeDay": "96.67%",
     "uptimeWeek": "78.59%",
-    "uptimeMonth": "85.17%",
+    "uptimeMonth": "85.20%",
     "uptimeYear": "97.92%",
     "time": 2000,
     "timeDay": 4255,
@@ -135,7 +135,7 @@
       "2022-03-17": 83,
       "2022-03-16": 31,
       "2022-03-15": 33,
-      "2022-03-13": 34
+      "2022-03-13": 18
     }
   },
   {
