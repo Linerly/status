@@ -12,6 +12,8 @@ sites:
   - name: SearXNG
     url: https://searxng.linerly.tk
     icon: https://searxng.linerly.tk/static/themes/oscar/img/favicon.png
+  - name: MortyProxy
+    url: https://proxy.linerly.tk
   - name: LinerlyBot (Discord)
     url: https://linerlybot-discord.linerly.tk
     icon: https://linerly.tk/assets/linerlybot/linerlybot.png
