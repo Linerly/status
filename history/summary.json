@@ -51,19 +51,19 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "97.17%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "94.40%",
+    "status": "down",
+    "uptime": "97.18%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "94.38%",
     "uptimeMonth": "88.15%",
-    "uptimeYear": "97.17%",
+    "uptimeYear": "97.18%",
     "time": 2522,
     "timeDay": 2629,
     "timeWeek": 1962,
     "timeMonth": 3537,
     "timeYear": 2522,
     "dailyMinutesDown": {
-      "2022-04-23": 31,
+      "2022-04-23": 32,
       "2022-04-21": 212,
       "2022-04-20": 186,
       "2022-04-19": 82,
@@ -91,7 +91,7 @@
       "2022-03-25": 99,
       "2022-03-24": 79,
       "2022-03-22": 109,
-      "2022-03-21": 149
+      "2022-03-21": 116
     }
   },
   {
@@ -172,7 +172,7 @@
     "slug": "matrix-homeserver",
     "status": "up",
     "uptime": "96.13%",
-    "uptimeDay": "43.04%",
+    "uptimeDay": "44.24%",
     "uptimeWeek": "88.49%",
     "uptimeMonth": "94.31%",
     "uptimeYear": "96.13%",
