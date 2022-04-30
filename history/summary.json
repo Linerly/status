@@ -51,11 +51,11 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "97.21%",
-    "uptimeDay": "84.81%",
+    "uptimeDay": "84.80%",
     "uptimeWeek": "92.00%",
-    "uptimeMonth": "90.59%",
+    "uptimeMonth": "90.61%",
     "uptimeYear": "97.21%",
     "time": 2609,
     "timeDay": 5166,
@@ -92,7 +92,7 @@
       "2022-03-29": 564,
       "2022-03-28": 336,
       "2022-03-27": 178,
-      "2022-03-26": 35
+      "2022-03-26": 17
     }
   },
   {
@@ -127,18 +127,18 @@
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
     "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "87.86%",
-    "uptimeWeek": "83.64%",
-    "uptimeMonth": "85.32%",
-    "uptimeYear": "97.78%",
+    "uptime": "97.77%",
+    "uptimeDay": "88.64%",
+    "uptimeWeek": "83.75%",
+    "uptimeMonth": "85.34%",
+    "uptimeYear": "97.77%",
     "time": 2186,
     "timeDay": 1495,
     "timeWeek": 4923,
     "timeMonth": 3629,
     "timeYear": 2186,
     "dailyMinutesDown": {
-      "2022-04-30": 174,
+      "2022-04-30": 163,
       "2022-04-29": 20,
       "2022-04-28": 253,
       "2022-04-27": 215,
@@ -169,7 +169,7 @@
       "2022-03-31": 309,
       "2022-03-30": 518,
       "2022-03-29": 721,
-      "2022-03-28": 44
+      "2022-03-28": 101
     }
   },
   {
