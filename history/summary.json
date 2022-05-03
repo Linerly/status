@@ -51,11 +51,11 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "97.22%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "90.72%",
-    "uptimeMonth": "92.62%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "90.70%",
+    "uptimeMonth": "92.67%",
     "uptimeYear": "97.22%",
     "time": 2697,
     "timeDay": 13751,
@@ -63,6 +63,7 @@
     "timeMonth": 3985,
     "timeYear": 2697,
     "dailyMinutesDown": {
+      "2022-05-03": 2,
       "2022-05-02": 135,
       "2022-05-01": 46,
       "2022-04-30": 194,
@@ -93,7 +94,7 @@
       "2022-03-30": 533,
       "2022-03-29": 564,
       "2022-03-28": 336,
-      "2022-03-27": 59
+      "2022-03-27": 43
     }
   },
   {
@@ -127,18 +128,19 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "97.77%",
-    "uptimeDay": "84.33%",
-    "uptimeWeek": "83.59%",
-    "uptimeMonth": "86.74%",
+    "uptimeDay": "88.42%",
+    "uptimeWeek": "84.12%",
+    "uptimeMonth": "86.87%",
     "uptimeYear": "97.77%",
     "time": 2218,
     "timeDay": 483,
-    "timeWeek": 4354,
+    "timeWeek": 4073,
     "timeMonth": 3751,
     "timeYear": 2218,
     "dailyMinutesDown": {
+      "2022-05-03": 0,
       "2022-05-02": 274,
       "2022-05-01": 119,
       "2022-04-30": 188,
@@ -171,7 +173,7 @@
       "2022-04-01": 480,
       "2022-03-31": 309,
       "2022-03-30": 518,
-      "2022-03-29": 481
+      "2022-03-29": 462
     }
   },
   {
@@ -180,11 +182,11 @@
     "icon": "https://matrix.org/favicon-32x32.png",
     "slug": "matrix-homeserver",
     "status": "up",
-    "uptime": "96.33%",
+    "uptime": "96.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "94.29%",
-    "uptimeYear": "96.33%",
+    "uptimeYear": "96.34%",
     "time": 1484,
     "timeDay": 973,
     "timeWeek": 2639,
