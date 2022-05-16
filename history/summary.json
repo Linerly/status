@@ -53,9 +53,9 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "97.51%",
-    "uptimeDay": "92.37%",
-    "uptimeWeek": "90.29%",
-    "uptimeMonth": "93.43%",
+    "uptimeDay": "93.37%",
+    "uptimeWeek": "90.43%",
+    "uptimeMonth": "93.46%",
     "uptimeYear": "97.51%",
     "time": 2614,
     "timeDay": 803,
@@ -63,7 +63,7 @@
     "timeMonth": 2856,
     "timeYear": 2614,
     "dailyMinutesDown": {
-      "2022-05-16": 109,
+      "2022-05-16": 95,
       "2022-05-15": 45,
       "2022-05-14": 210,
       "2022-05-13": 305,
@@ -102,7 +102,7 @@
       "2022-04-02": 260,
       "2022-04-01": 521,
       "2022-03-31": 246,
-      "2022-03-30": 73
+      "2022-03-30": 101
     }
   },
   {
@@ -139,12 +139,12 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "97.92%",
-    "uptimeDay": "87.58%",
-    "uptimeWeek": "90.32%",
+    "status": "down",
+    "uptime": "97.93%",
+    "uptimeDay": "87.56%",
+    "uptimeWeek": "90.31%",
     "uptimeMonth": "89.39%",
-    "uptimeYear": "97.92%",
+    "uptimeYear": "97.93%",
     "time": 2325,
     "timeDay": 2919,
     "timeWeek": 3427,
@@ -193,8 +193,7 @@
       "2022-04-05": 811,
       "2022-04-04": 149,
       "2022-04-03": 115,
-      "2022-04-02": 102,
-      "2022-04-01": 33
+      "2022-04-02": 102
     }
   },
   {
@@ -203,18 +202,18 @@
     "icon": "https://matrix.org/favicon-32x32.png",
     "slug": "matrix-homeserver",
     "status": "down",
-    "uptime": "93.76%",
+    "uptime": "93.75%",
     "uptimeDay": "77.48%",
-    "uptimeWeek": "51.98%",
-    "uptimeMonth": "82.23%",
-    "uptimeYear": "93.76%",
+    "uptimeWeek": "51.95%",
+    "uptimeMonth": "82.15%",
+    "uptimeYear": "93.75%",
     "time": 1448,
     "timeDay": 1908,
-    "timeWeek": 1052,
+    "timeWeek": 1058,
     "timeMonth": 1472,
     "timeYear": 1448,
     "dailyMinutesDown": {
-      "2022-05-16": 175,
+      "2022-05-16": 213,
       "2022-05-15": 332,
       "2022-05-14": 34,
       "2022-05-13": 1440,
