@@ -1,7 +1,7 @@
 url: https://matrix.kotakebun.com/_matrix/client/versions
-status: up
-code: 200
-responseTime: 981
-lastUpdated: 2022-07-16T23:13:27.221Z
+status: down
+code: 503
+responseTime: 3185
+lastUpdated: 2022-07-17T11:32:56.243Z
 startTime: Fri Dec 10 2021 14:18:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
