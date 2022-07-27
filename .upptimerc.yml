@@ -20,6 +20,9 @@ sites:
   - name: Matrix Homeserver
     url: https://matrix.kotakebun.com/_matrix/client/versions
     icon: https://matrix.org/favicon-32x32.png
+  - name: Apkes
+    url: https://apkes.linerly.tk
+    icon: https://apkes.linerly.tk/icon.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
