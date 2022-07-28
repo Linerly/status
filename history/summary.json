@@ -57,19 +57,19 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "98.35%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "98.35%",
+    "status": "down",
+    "uptime": "98.36%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "95.22%",
+    "uptimeYear": "98.36%",
     "time": 2885,
     "timeDay": 1579,
     "timeWeek": 1472,
     "timeMonth": 2594,
     "timeYear": 2885,
     "dailyMinutesDown": {
-      "2022-07-28": 44,
+      "2022-07-28": 46,
       "2022-07-27": 31,
       "2022-07-26": 18,
       "2022-07-25": 284,
@@ -127,7 +127,7 @@
       "2022-05-24": 196,
       "2022-05-23": 77,
       "2022-05-22": 97,
-      "2022-05-20": 42
+      "2022-05-20": 24
     }
   },
   {
@@ -183,18 +183,18 @@
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
     "status": "down",
-    "uptime": "76.88%",
+    "uptime": "76.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.88%",
+    "uptimeYear": "76.87%",
     "time": 2399,
     "timeDay": 0,
     "timeWeek": 1000,
     "timeMonth": 696,
     "timeYear": 2399,
     "dailyMinutesDown": {
-      "2022-07-28": 1307,
+      "2022-07-28": 1339,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -404,18 +404,16 @@
     "icon": "https://apkes.linerly.tk/icon.svg",
     "slug": "apkes",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2624,
     "timeDay": 1476,
     "timeWeek": 2624,
     "timeMonth": 2624,
     "timeYear": 2624,
-    "dailyMinutesDown": {
-      "2022-07-28": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
