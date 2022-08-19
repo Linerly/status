@@ -6,9 +6,6 @@ sites:
   - name: Website
     url: https://linerly.tk
     icon: https://linerly.tk/assets/favicon.ico
-  - name: Blog
-    url: https://linerly.tk/blog
-    icon: https://linerly.tk/assets/favicon.ico
   - name: SearXNG
     url: https://searxng.linerly.tk
     icon: https://searxng.linerly.tk/static/themes/oscar/img/favicon.png
