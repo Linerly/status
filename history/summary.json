@@ -35,10 +35,10 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "98.43%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "94.93%",
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "94.92%",
     "uptimeMonth": "94.58%",
     "uptimeYear": "98.43%",
     "time": 2939,
@@ -47,6 +47,7 @@
     "timeMonth": 3260,
     "timeYear": 2939,
     "dailyMinutesDown": {
+      "2022-08-27": 2,
       "2022-08-26": 101,
       "2022-08-25": 199,
       "2022-08-24": 18,
@@ -110,8 +111,7 @@
       "2022-06-10": 85,
       "2022-06-09": 105,
       "2022-06-08": 113,
-      "2022-06-07": 108,
-      "2022-06-06": 17
+      "2022-06-07": 108
     }
   },
   {
@@ -186,18 +186,19 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "70.70%",
-    "uptimeDay": "40.48%",
-    "uptimeWeek": "5.78%",
+    "status": "down",
+    "uptime": "70.77%",
+    "uptimeDay": "45.24%",
+    "uptimeWeek": "6.46%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.70%",
+    "uptimeYear": "70.77%",
     "time": 2458,
     "timeDay": 7464,
     "timeWeek": 7464,
     "timeMonth": 8705,
     "timeYear": 2458,
     "dailyMinutesDown": {
+      "2022-08-27": 0,
       "2022-08-26": 1012,
       "2022-08-25": 1440,
       "2022-08-24": 1440,
@@ -339,7 +340,7 @@
       "2022-04-08": 29,
       "2022-04-07": 116,
       "2022-04-06": 890,
-      "2022-04-05": 465
+      "2022-04-05": 88
     }
   },
   {
@@ -348,11 +349,11 @@
     "icon": "https://apkes.linerly.tk/icon.svg",
     "slug": "apkes",
     "status": "up",
-    "uptime": "93.69%",
+    "uptime": "93.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.99%",
-    "uptimeMonth": "93.69%",
-    "uptimeYear": "93.69%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "93.70%",
+    "uptimeYear": "93.70%",
     "time": 1710,
     "timeDay": 934,
     "timeWeek": 827,
