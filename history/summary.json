@@ -36,12 +36,12 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "92.85%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "92.84%",
     "uptimeWeek": "91.65%",
     "uptimeMonth": "94.23%",
-    "uptimeYear": "98.39%",
+    "uptimeYear": "98.40%",
     "time": 2964,
     "timeDay": 6868,
     "timeWeek": 4972,
@@ -112,8 +112,7 @@
       "2022-06-13": 65,
       "2022-06-12": 39,
       "2022-06-11": 20,
-      "2022-06-10": 85,
-      "2022-06-09": 22
+      "2022-06-10": 85
     }
   },
   {
@@ -191,8 +190,8 @@
     "status": "up",
     "uptime": "71.13%",
     "uptimeDay": "93.65%",
-    "uptimeWeek": "51.24%",
-    "uptimeMonth": "9.89%",
+    "uptimeWeek": "51.53%",
+    "uptimeMonth": "9.95%",
     "uptimeYear": "71.13%",
     "time": 2568,
     "timeDay": 14444,
