@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "91.95%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 340,
     "timeDay": 973,
     "timeWeek": 1339,
@@ -187,12 +187,12 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "71.48%",
-    "uptimeDay": "90.58%",
-    "uptimeWeek": "84.71%",
-    "uptimeMonth": "21.28%",
-    "uptimeYear": "71.48%",
+    "status": "down",
+    "uptime": "71.51%",
+    "uptimeDay": "90.56%",
+    "uptimeWeek": "84.70%",
+    "uptimeMonth": "21.32%",
+    "uptimeYear": "71.51%",
     "time": 2706,
     "timeDay": 5374,
     "timeWeek": 6012,
@@ -335,7 +335,7 @@
       "2022-04-23": 99,
       "2022-04-22": 19,
       "2022-04-21": 177,
-      "2022-04-20": 372
+      "2022-04-20": 204
     }
   },
   {
