@@ -32,10 +32,10 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "91.36%",
-    "uptimeWeek": "90.54%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "90.53%",
     "uptimeMonth": "93.90%",
     "uptimeYear": "98.34%",
     "time": 3006,
@@ -109,7 +109,7 @@
       "2022-06-19": 26,
       "2022-06-18": 107,
       "2022-06-17": 20,
-      "2022-06-15": 38
+      "2022-06-15": 16
     }
   },
   {
@@ -191,9 +191,9 @@
     "slug": "linerly-bot-discord",
     "status": "up",
     "uptime": "71.59%",
-    "uptimeDay": "56.05%",
-    "uptimeWeek": "83.00%",
-    "uptimeMonth": "25.26%",
+    "uptimeDay": "56.46%",
+    "uptimeWeek": "83.06%",
+    "uptimeMonth": "25.40%",
     "uptimeYear": "71.51%",
     "time": 2762,
     "timeDay": 3994,
@@ -201,7 +201,7 @@
     "timeMonth": 6204,
     "timeYear": 2768,
     "dailyMinutesDown": {
-      "2022-09-05": 609,
+      "2022-09-05": 603,
       "2022-09-04": 72,
       "2022-09-03": 205,
       "2022-09-02": 169,
@@ -336,7 +336,7 @@
       "2022-04-26": 716,
       "2022-04-25": 154,
       "2022-04-24": 115,
-      "2022-04-23": 45
+      "2022-04-23": 70
     }
   },
   {
@@ -345,11 +345,11 @@
     "icon": "https://apkes.linerly.tk/icon.svg",
     "slug": "apkes",
     "status": "up",
-    "uptime": "95.07%",
+    "uptime": "95.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.62%",
-    "uptimeYear": "95.07%",
+    "uptimeYear": "95.08%",
     "time": 1703,
     "timeDay": 1057,
     "timeWeek": 970,
