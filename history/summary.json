@@ -35,7 +35,7 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "88.32%",
+    "uptimeDay": "92.23%",
     "uptimeWeek": "90.55%",
     "uptimeMonth": "93.54%",
     "uptimeYear": "98.34%",
@@ -188,12 +188,12 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "71.76%",
-    "uptimeDay": "63.02%",
-    "uptimeWeek": "76.14%",
-    "uptimeMonth": "28.67%",
-    "uptimeYear": "71.56%",
+    "status": "down",
+    "uptime": "71.80%",
+    "uptimeDay": "63.07%",
+    "uptimeWeek": "76.13%",
+    "uptimeMonth": "28.79%",
+    "uptimeYear": "71.60%",
     "time": 2816,
     "timeDay": 5706,
     "timeWeek": 5379,
@@ -332,8 +332,7 @@
       "2022-05-01": 119,
       "2022-04-30": 188,
       "2022-04-29": 20,
-      "2022-04-28": 253,
-      "2022-04-27": 215
+      "2022-04-28": 253
     }
   },
   {
