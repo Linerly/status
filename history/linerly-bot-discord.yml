@@ -1,7 +1,7 @@
 url: https://linerlybot-discord.linerly.tk
-status: up
-code: 200
-responseTime: 705
-lastUpdated: 2022-09-07T20:55:46.591Z
+status: down
+code: 500
+responseTime: 836
+lastUpdated: 2022-09-07T21:52:15.462Z
 startTime: Sat Sep 04 2021 14:38:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
