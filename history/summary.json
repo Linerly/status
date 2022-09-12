@@ -13,7 +13,7 @@
     "time": 349,
     "timeDay": 826,
     "timeWeek": 820,
-    "timeMonth": 1144,
+    "timeMonth": 1071,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2022-09-06": 70,
@@ -41,7 +41,7 @@
     "uptimeYear": "97.91%",
     "time": 3122,
     "timeDay": 3671,
-    "timeWeek": 5726,
+    "timeWeek": 5826,
     "timeMonth": 4445,
     "timeYear": 3122,
     "dailyMinutesDown": {
@@ -183,15 +183,15 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "71.89%",
-    "uptimeDay": "67.85%",
+    "status": "down",
+    "uptime": "71.90%",
+    "uptimeDay": "67.83%",
     "uptimeWeek": "61.65%",
-    "uptimeMonth": "39.27%",
-    "uptimeYear": "71.27%",
+    "uptimeMonth": "39.44%",
+    "uptimeYear": "71.28%",
     "time": 3074,
-    "timeDay": 3027,
-    "timeWeek": 7536,
+    "timeDay": 3228,
+    "timeWeek": 7653,
     "timeMonth": 6793,
     "timeYear": 3101,
     "dailyMinutesDown": {
@@ -323,7 +323,7 @@
       "2022-05-10": 93,
       "2022-05-09": 29,
       "2022-05-08": 42,
-      "2022-05-07": 70
+      "2022-05-07": 19
     }
   },
   {
@@ -332,11 +332,11 @@
     "icon": "https://apkes.linerly.tk/icon.svg",
     "slug": "apkes",
     "status": "up",
-    "uptime": "95.70%",
+    "uptime": "95.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "97.31%",
-    "uptimeYear": "95.70%",
+    "uptimeYear": "95.71%",
     "time": 1641,
     "timeDay": 832,
     "timeWeek": 917,
