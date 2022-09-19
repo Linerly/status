@@ -5,7 +5,7 @@
     "icon": "https://linerly.tk/assets/favicon.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
@@ -33,12 +33,12 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "98.06%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "87.68%",
+    "status": "down",
+    "uptime": "98.07%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "87.73%",
     "uptimeMonth": "86.03%",
-    "uptimeYear": "98.06%",
+    "uptimeYear": "98.07%",
     "time": 3203,
     "timeDay": 723,
     "timeWeek": 5141,
@@ -87,7 +87,7 @@
       "2022-08-01": 225,
       "2022-07-31": 42,
       "2022-07-30": 217,
-      "2022-07-29": 80
+      "2022-07-29": 56
     }
   },
   {
@@ -99,7 +99,7 @@
     "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "96.19%",
+    "uptimeMonth": "96.26%",
     "uptimeYear": "98.33%",
     "time": 2418,
     "timeDay": 504,
@@ -175,9 +175,9 @@
     "slug": "linerly-bot-discord",
     "status": "up",
     "uptime": "72.25%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "78.12%",
-    "uptimeMonth": "56.88%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "78.27%",
+    "uptimeMonth": "56.99%",
     "uptimeYear": "71.12%",
     "time": 3336,
     "timeDay": 7065,
@@ -185,7 +185,7 @@
     "timeMonth": 7166,
     "timeYear": 3385,
     "dailyMinutesDown": {
-      "2022-09-19": 97,
+      "2022-09-19": 82,
       "2022-09-18": 35,
       "2022-09-17": 33,
       "2022-09-16": 171,
@@ -310,7 +310,7 @@
       "2022-05-20": 1440,
       "2022-05-19": 400,
       "2022-05-18": 827,
-      "2022-05-17": 23
+      "2022-05-17": 38
     }
   },
   {
@@ -322,7 +322,7 @@
     "uptime": "96.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.40%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "96.25%",
     "time": 1585,
     "timeDay": 930,
