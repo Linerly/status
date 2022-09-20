@@ -172,7 +172,7 @@
     "slug": "linerly-bot-discord",
     "status": "down",
     "uptime": "72.27%",
-    "uptimeDay": "67.63%",
+    "uptimeDay": "67.56%",
     "uptimeWeek": "79.39%",
     "uptimeMonth": "58.34%",
     "uptimeYear": "71.09%",
@@ -182,7 +182,7 @@
     "timeMonth": 7314,
     "timeYear": 3434,
     "dailyMinutesDown": {
-      "2022-09-20": 0,
+      "2022-09-20": 1,
       "2022-09-19": 466,
       "2022-09-18": 35,
       "2022-09-17": 33,
