@@ -4,11 +4,11 @@
     "url": "https://linerly.tk",
     "icon": "https://linerly.tk/assets/favicon.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.28%",
     "time": 365,
     "timeDay": 735,
@@ -16,6 +16,7 @@
     "timeMonth": 931,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2022-09-27": 0,
       "2022-09-24": 19,
       "2022-09-21": 54,
       "2022-09-06": 70,
@@ -37,9 +38,9 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "80.83%",
-    "uptimeWeek": "93.75%",
-    "uptimeMonth": "85.20%",
+    "uptimeDay": "82.45%",
+    "uptimeWeek": "93.84%",
+    "uptimeMonth": "85.22%",
     "uptimeYear": "98.37%",
     "time": 3260,
     "timeDay": 2060,
@@ -47,7 +48,7 @@
     "timeMonth": 4809,
     "timeYear": 3260,
     "dailyMinutesDown": {
-      "2022-09-27": 233,
+      "2022-09-27": 224,
       "2022-09-26": 43,
       "2022-09-25": 161,
       "2022-09-24": 1,
@@ -77,7 +78,8 @@
       "2022-08-28": 165,
       "2022-08-27": 64,
       "2022-08-26": 101,
-      "2022-08-25": 199
+      "2022-08-25": 199,
+      "2022-08-24": 18
     }
   },
   {
@@ -167,10 +169,10 @@
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
     "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "68.58%",
-    "uptimeWeek": "85.96%",
-    "uptimeMonth": "79.53%",
+    "uptime": "98.39%",
+    "uptimeDay": "69.07%",
+    "uptimeWeek": "86.03%",
+    "uptimeMonth": "79.46%",
     "uptimeYear": "98.29%",
     "time": 3487,
     "timeDay": 6352,
@@ -178,7 +180,7 @@
     "timeMonth": 6790,
     "timeYear": 3558,
     "dailyMinutesDown": {
-      "2022-09-27": 453,
+      "2022-09-27": 446,
       "2022-09-26": 213,
       "2022-09-25": 44,
       "2022-09-24": 152,
@@ -203,7 +205,7 @@
       "2022-09-05": 603,
       "2022-09-04": 72,
       "2022-09-03": 205,
-      "2022-09-02": 17
+      "2022-09-02": 57
     }
   },
   {
@@ -211,9 +213,9 @@
     "url": "https://apkes.linerly.tk",
     "icon": "https://apkes.linerly.tk/icon.svg",
     "slug": "apkes",
-    "status": "up",
+    "status": "down",
     "uptime": "96.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "96.68%",
@@ -223,6 +225,7 @@
     "timeMonth": 1155,
     "timeYear": 1514,
     "dailyMinutesDown": {
+      "2022-09-27": 0,
       "2022-09-24": 17,
       "2022-09-21": 50,
       "2022-09-06": 69,
