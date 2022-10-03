@@ -38,18 +38,18 @@
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
     "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "85.57%",
-    "uptimeWeek": "86.06%",
-    "uptimeMonth": "86.47%",
-    "uptimeYear": "98.62%",
+    "uptime": "98.59%",
+    "uptimeDay": "85.99%",
+    "uptimeWeek": "86.35%",
+    "uptimeMonth": "86.20%",
+    "uptimeYear": "98.59%",
     "time": 3253,
     "timeDay": 4807,
-    "timeWeek": 2981,
+    "timeWeek": 3024,
     "timeMonth": 4516,
     "timeYear": 3253,
     "dailyMinutesDown": {
-      "2022-10-03": 206,
+      "2022-10-03": 200,
       "2022-10-02": 142,
       "2022-10-01": 213,
       "2022-09-30": 39,
@@ -71,7 +71,7 @@
       "2022-09-11": 836,
       "2022-09-10": 1213,
       "2022-09-09": 323,
-      "2022-09-08": 138
+      "2022-09-08": 264
     }
   },
   {
@@ -83,12 +83,12 @@
     "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
-    "uptimeMonth": "98.08%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "98.40%",
     "time": 2453,
     "timeDay": 3559,
     "timeWeek": 2614,
-    "timeMonth": 3677,
+    "timeMonth": 3674,
     "timeYear": 2453,
     "dailyMinutesDown": {
       "2022-09-29": 19,
@@ -161,16 +161,16 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "98.60%",
-    "uptimeDay": "73.02%",
+    "status": "down",
+    "uptime": "98.61%",
+    "uptimeDay": "74.52%",
     "uptimeWeek": "79.59%",
-    "uptimeMonth": "81.90%",
-    "uptimeYear": "98.49%",
+    "uptimeMonth": "81.96%",
+    "uptimeYear": "98.50%",
     "time": 3639,
-    "timeDay": 13182,
+    "timeDay": 14775,
     "timeWeek": 6638,
-    "timeMonth": 6923,
+    "timeMonth": 6950,
     "timeYear": 3726,
     "dailyMinutesDown": {
       "2022-10-03": 367,
@@ -197,7 +197,7 @@
       "2022-09-12": 676,
       "2022-09-11": 837,
       "2022-09-10": 731,
-      "2022-09-09": 130
+      "2022-09-09": 100
     }
   },
   {
