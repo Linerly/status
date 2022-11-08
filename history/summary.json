@@ -170,15 +170,15 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "85.87%",
-    "uptimeWeek": "88.19%",
-    "uptimeMonth": "87.65%",
-    "uptimeYear": "98.97%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "85.84%",
+    "uptimeWeek": "88.40%",
+    "uptimeMonth": "87.85%",
+    "uptimeYear": "98.99%",
     "time": 3875,
     "timeDay": 4534,
-    "timeWeek": 3556,
+    "timeWeek": 3610,
     "timeMonth": 4686,
     "timeYear": 4049,
     "dailyMinutesDown": {
@@ -203,7 +203,7 @@
       "2022-10-20": 367,
       "2022-10-19": 287,
       "2022-10-18": 663,
-      "2022-10-17": 326
+      "2022-10-17": 238
     }
   },
   {
