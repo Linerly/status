@@ -47,18 +47,18 @@
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "80.64%",
-    "uptimeWeek": "88.46%",
-    "uptimeMonth": "91.53%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.20%",
+    "uptimeDay": "81.08%",
+    "uptimeWeek": "88.53%",
+    "uptimeMonth": "91.55%",
+    "uptimeYear": "99.20%",
     "time": 3295,
     "timeDay": 818,
     "timeWeek": 3108,
     "timeMonth": 3363,
     "timeYear": 3295,
     "dailyMinutesDown": {
-      "2022-11-22": 232,
+      "2022-11-22": 226,
       "2022-11-21": 174,
       "2022-11-20": 46,
       "2022-11-19": 176,
@@ -89,7 +89,7 @@
       "2022-10-24": 322,
       "2022-10-23": 119,
       "2022-10-22": 206,
-      "2022-10-21": 62
+      "2022-10-21": 92
     }
   },
   {
@@ -97,10 +97,10 @@
     "url": "https://proxy.linerly.tk",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.linerly.tk.ico",
     "slug": "morty-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.32%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "98.61%",
     "time": 2497,
@@ -109,6 +109,7 @@
     "timeMonth": 2909,
     "timeYear": 2497,
     "dailyMinutesDown": {
+      "2022-11-22": 1,
       "2022-11-19": 119,
       "2022-11-17": 51,
       "2022-11-14": 105,
@@ -187,12 +188,12 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "79.44%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "79.41%",
     "uptimeWeek": "91.20%",
-    "uptimeMonth": "90.25%",
-    "uptimeYear": "99.19%",
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "99.20%",
     "time": 3883,
     "timeDay": 789,
     "timeWeek": 2278,
@@ -223,8 +224,7 @@
       "2022-10-30": 79,
       "2022-10-29": 30,
       "2022-10-27": 194,
-      "2022-10-26": 39,
-      "2022-10-25": 50
+      "2022-10-26": 39
     }
   },
   {
