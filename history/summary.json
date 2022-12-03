@@ -56,7 +56,7 @@
     "time": 3226,
     "timeDay": 870,
     "timeWeek": 828,
-    "timeMonth": 2787,
+    "timeMonth": 2797,
     "timeYear": 3226,
     "dailyMinutesDown": {
       "2022-12-03": 82,
@@ -106,9 +106,9 @@
     "url": "https://proxy.linerly.tk",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.linerly.tk.ico",
     "slug": "morty-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "98.67%",
@@ -118,6 +118,7 @@
     "timeMonth": 3319,
     "timeYear": 2491,
     "dailyMinutesDown": {
+      "2022-12-03": 0,
       "2022-11-22": 27,
       "2022-11-19": 119,
       "2022-11-17": 51,
@@ -198,18 +199,18 @@
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "90.68%",
+    "uptime": "99.29%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "90.70%",
     "uptimeYear": "99.12%",
     "time": 3798,
     "timeDay": 955,
     "timeWeek": 836,
-    "timeMonth": 3410,
+    "timeMonth": 3425,
     "timeYear": 4011,
     "dailyMinutesDown": {
-      "2022-12-03": 41,
+      "2022-12-03": 35,
       "2022-12-02": 29,
       "2022-12-01": 37,
       "2022-11-30": 112,
@@ -239,7 +240,7 @@
       "2022-11-04": 147,
       "2022-11-03": 197,
       "2022-11-02": 259,
-      "2022-11-01": 74
+      "2022-11-01": 106
     }
   },
   {
