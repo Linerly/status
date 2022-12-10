@@ -47,9 +47,9 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "93.01%",
+    "uptimeDay": "93.00%",
     "uptimeWeek": "92.73%",
     "uptimeMonth": "91.44%",
     "uptimeYear": "99.11%",
@@ -103,7 +103,7 @@
       "2022-10-29": 21,
       "2022-10-28": 77,
       "2022-10-27": 103,
-      "2022-10-26": 44
+      "2022-10-26": 24
     }
   },
   {
