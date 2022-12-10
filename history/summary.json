@@ -49,17 +49,17 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "88.67%",
-    "uptimeWeek": "92.24%",
-    "uptimeMonth": "91.51%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "92.94%",
+    "uptimeMonth": "91.53%",
     "uptimeYear": "99.11%",
     "time": 3186,
-    "timeDay": 1041,
+    "timeDay": 1061,
     "timeWeek": 1206,
     "timeMonth": 2505,
     "timeYear": 3186,
     "dailyMinutesDown": {
-      "2022-12-09": 158,
+      "2022-12-09": 152,
       "2022-12-08": 71,
       "2022-12-07": 139,
       "2022-12-06": 94,
@@ -102,7 +102,7 @@
       "2022-10-29": 21,
       "2022-10-28": 77,
       "2022-10-27": 103,
-      "2022-10-26": 44
+      "2022-10-26": 76
     }
   },
   {
@@ -213,7 +213,7 @@
     "time": 3742,
     "timeDay": 1108,
     "timeWeek": 1045,
-    "timeMonth": 2737,
+    "timeMonth": 2632,
     "timeYear": 3964,
     "dailyMinutesDown": {
       "2022-12-09": 46,
