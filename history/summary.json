@@ -47,16 +47,16 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "97.60%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "97.59%",
     "uptimeWeek": "96.72%",
-    "uptimeMonth": "94.64%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "99.07%",
     "time": 3178,
     "timeDay": 4485,
     "timeWeek": 4388,
-    "timeMonth": 1601,
+    "timeMonth": 1607,
     "timeYear": 3197,
     "dailyMinutesDown": {
       "2022-12-22": 35,
@@ -105,7 +105,7 @@
       "2022-11-02": 109,
       "2022-11-01": 88,
       "2022-10-31": 145,
-      "2022-10-30": 39
+      "2022-10-30": 19
     }
   },
   {
@@ -211,12 +211,12 @@
     "uptime": "99.28%",
     "uptimeDay": "98.64%",
     "uptimeWeek": "98.32%",
-    "uptimeMonth": "94.87%",
+    "uptimeMonth": "94.92%",
     "uptimeYear": "99.07%",
     "time": 3748,
     "timeDay": 10961,
     "timeWeek": 5521,
-    "timeMonth": 1878,
+    "timeMonth": 1889,
     "timeYear": 3994,
     "dailyMinutesDown": {
       "2022-12-22": 20,
