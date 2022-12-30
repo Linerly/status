@@ -48,10 +48,10 @@
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
     "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "96.39%",
+    "uptime": "99.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "96.41%",
     "uptimeYear": "99.08%",
     "time": 3177,
     "timeDay": 528,
@@ -59,7 +59,6 @@
     "timeMonth": 2388,
     "timeYear": 3219,
     "dailyMinutesDown": {
-      "2022-12-30": 6,
       "2022-12-29": 38,
       "2022-12-27": 33,
       "2022-12-23": 85,
@@ -107,7 +106,7 @@
       "2022-11-04": 15,
       "2022-11-03": 40,
       "2022-11-02": 109,
-      "2022-11-01": 19
+      "2022-11-01": 46
     }
   },
   {
@@ -210,18 +209,19 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.35%",
     "uptimeMonth": "96.77%",
-    "uptimeYear": "99.06%",
-    "time": 3841,
-    "timeDay": 12228,
+    "uptimeYear": "99.07%",
+    "time": 3843,
+    "timeDay": 822,
     "timeWeek": 8228,
     "timeMonth": 3906,
     "timeYear": 4111,
     "dailyMinutesDown": {
+      "2022-12-30": 0,
       "2022-12-29": 84,
       "2022-12-28": 48,
       "2022-12-27": 101,
@@ -263,7 +263,7 @@
       "2022-11-10": 186,
       "2022-11-09": 191,
       "2022-11-08": 186,
-      "2022-11-07": 60
+      "2022-11-07": 38
     }
   },
   {
@@ -272,11 +272,11 @@
     "icon": "https://apkes.linerly.tk/icon.svg",
     "slug": "apkes",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.45%",
+    "uptimeYear": "98.46%",
     "time": 1446,
     "timeDay": 1840,
     "timeWeek": 1332,
