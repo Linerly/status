@@ -13,7 +13,7 @@
     "time": 550,
     "timeDay": 627,
     "timeWeek": 881,
-    "timeMonth": 951,
+    "timeMonth": 941,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2022-11-25": 21,
@@ -47,18 +47,20 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.30%",
-    "uptimeMonth": "96.41%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "99.08%",
     "time": 3175,
     "timeDay": 569,
     "timeWeek": 2683,
-    "timeMonth": 2390,
+    "timeMonth": 2347,
     "timeYear": 3219,
     "dailyMinutesDown": {
+      "2022-12-31": 0,
+      "2022-12-30": 0,
       "2022-12-29": 38,
       "2022-12-27": 33,
       "2022-12-23": 85,
@@ -106,7 +108,7 @@
       "2022-11-04": 15,
       "2022-11-03": 40,
       "2022-11-02": 109,
-      "2022-11-01": 46
+      "2022-11-01": 19
     }
   },
   {
@@ -123,7 +125,7 @@
     "time": 2445,
     "timeDay": 402,
     "timeWeek": 2289,
-    "timeMonth": 2184,
+    "timeMonth": 2155,
     "timeYear": 2445,
     "dailyMinutesDown": {
       "2022-12-29": 23,
@@ -211,17 +213,16 @@
     "slug": "linerly-bot-discord",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "99.06%",
     "time": 3855,
     "timeDay": 6242,
     "timeWeek": 8274,
-    "timeMonth": 3999,
+    "timeMonth": 3881,
     "timeYear": 4118,
     "dailyMinutesDown": {
-      "2022-12-30": 6,
       "2022-12-29": 84,
       "2022-12-28": 48,
       "2022-12-27": 101,
@@ -263,7 +264,7 @@
       "2022-11-10": 186,
       "2022-11-09": 191,
       "2022-11-08": 186,
-      "2022-11-07": 38
+      "2022-11-07": 60
     }
   },
   {
@@ -280,7 +281,7 @@
     "time": 1444,
     "timeDay": 1052,
     "timeWeek": 1187,
-    "timeMonth": 1468,
+    "timeMonth": 1448,
     "timeYear": 1444,
     "dailyMinutesDown": {
       "2022-11-19": 116,
