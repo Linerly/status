@@ -47,10 +47,10 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://searxng.linerly.tk/static/themes/oscar/img/favicon.png",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.65%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.63%",
     "uptimeMonth": "96.54%",
     "uptimeYear": "99.07%",
     "time": 3174,
@@ -59,6 +59,7 @@
     "timeMonth": 2466,
     "timeYear": 3222,
     "dailyMinutesDown": {
+      "2023-01-02": 1,
       "2022-12-31": 66,
       "2022-12-30": 0,
       "2022-12-29": 38,
@@ -107,8 +108,7 @@
       "2022-11-05": 41,
       "2022-11-04": 15,
       "2022-11-03": 40,
-      "2022-11-02": 109,
-      "2022-11-01": 19
+      "2022-11-02": 109
     }
   },
   {
@@ -116,10 +116,10 @@
     "url": "https://proxy.linerly.tk",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.linerly.tk.ico",
     "slug": "morty-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "98.78%",
     "time": 2436,
@@ -128,6 +128,7 @@
     "timeMonth": 2141,
     "timeYear": 2436,
     "dailyMinutesDown": {
+      "2023-01-02": 1,
       "2022-12-29": 23,
       "2022-12-08": 65,
       "2022-12-07": 25,
@@ -211,16 +212,16 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "97.49%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "97.46%",
     "uptimeWeek": "96.66%",
-    "uptimeMonth": "96.64%",
-    "uptimeYear": "99.06%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "99.07%",
     "time": 3898,
     "timeDay": 4084,
     "timeWeek": 8524,
-    "timeMonth": 4267,
+    "timeMonth": 4297,
     "timeYear": 4142,
     "dailyMinutesDown": {
       "2023-01-02": 36,
@@ -265,7 +266,7 @@
       "2022-11-12": 435,
       "2022-11-10": 186,
       "2022-11-09": 191,
-      "2022-11-08": 186
+      "2022-11-08": 128
     }
   },
   {
