@@ -55,17 +55,17 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "93.43%",
-    "uptimeWeek": "85.77%",
-    "uptimeMonth": "94.68%",
+    "uptimeDay": "93.06%",
+    "uptimeWeek": "85.72%",
+    "uptimeMonth": "94.67%",
     "uptimeYear": "98.90%",
-    "time": 3210,
-    "timeDay": 4354,
-    "timeWeek": 4486,
-    "timeMonth": 3279,
-    "timeYear": 3267,
+    "time": 3208,
+    "timeDay": 4009,
+    "timeWeek": 4399,
+    "timeMonth": 3260,
+    "timeYear": 3265,
     "dailyMinutesDown": {
-      "2023-01-08": 95,
+      "2023-01-08": 100,
       "2023-01-07": 41,
       "2023-01-06": 39,
       "2023-01-05": 822,
@@ -111,7 +111,7 @@
       "2022-11-14": 244,
       "2022-11-13": 117,
       "2022-11-12": 242,
-      "2022-11-11": 21
+      "2022-11-11": 2
     }
   },
   {
@@ -219,17 +219,17 @@
     "slug": "linerly-bot-discord",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "89.40%",
-    "uptimeWeek": "95.60%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "99.09%",
+    "uptimeDay": "89.80%",
+    "uptimeWeek": "95.66%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "99.08%",
     "time": 4034,
-    "timeDay": 9843,
-    "timeWeek": 7113,
+    "timeDay": 8364,
+    "timeWeek": 7054,
     "timeMonth": 6131,
     "timeYear": 4283,
     "dailyMinutesDown": {
-      "2023-01-08": 153,
+      "2023-01-08": 147,
       "2023-01-07": 61,
       "2023-01-06": 76,
       "2023-01-05": 70,
@@ -274,7 +274,8 @@
       "2022-11-15": 254,
       "2022-11-14": 152,
       "2022-11-13": 247,
-      "2022-11-12": 435
+      "2022-11-12": 435,
+      "2022-11-10": 19
     }
   },
   {
