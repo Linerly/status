@@ -17,6 +17,9 @@ sites:
   - name: Apkes
     url: https://apkes.linerly.tk
     icon: https://apkes.linerly.tk/icon.svg
+  - name: Immich
+    url: https://immich.linerly.tk
+    icon: https://immich.linerly.tk/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
