@@ -59,9 +59,9 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "94.48%",
-    "uptimeWeek": "91.60%",
-    "uptimeMonth": "95.08%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "92.30%",
+    "uptimeMonth": "95.10%",
     "uptimeYear": "98.92%",
     "time": 3232,
     "timeDay": 5302,
@@ -69,7 +69,7 @@
     "timeMonth": 3942,
     "timeYear": 3296,
     "dailyMinutesDown": {
-      "2023-01-12": 71,
+      "2023-01-12": 62,
       "2023-01-11": 8,
       "2023-01-09": 53,
       "2023-01-08": 95,
@@ -116,7 +116,8 @@
       "2022-11-16": 187,
       "2022-11-15": 87,
       "2022-11-14": 244,
-      "2022-11-13": 117
+      "2022-11-13": 117,
+      "2022-11-12": 21
     }
   },
   {
@@ -346,19 +347,19 @@
     "url": "https://immich.linerly.tk",
     "icon": "https://immich.linerly.tk/favicon.png",
     "slug": "immich",
-    "status": "down",
-    "uptime": "36.11%",
-    "uptimeDay": "36.11%",
-    "uptimeWeek": "36.11%",
-    "uptimeMonth": "36.11%",
-    "uptimeYear": "36.11%",
-    "time": 6425,
-    "timeDay": 6425,
-    "timeWeek": 6425,
-    "timeMonth": 6425,
-    "timeYear": 6425,
+    "status": "up",
+    "uptime": "22.93%",
+    "uptimeDay": "22.93%",
+    "uptimeWeek": "22.93%",
+    "uptimeMonth": "22.93%",
+    "uptimeYear": "22.93%",
+    "time": 5278,
+    "timeDay": 5278,
+    "timeWeek": 5278,
+    "timeMonth": 5278,
+    "timeYear": 5278,
     "dailyMinutesDown": {
-      "2023-01-12": 65
+      "2023-01-12": 126
     }
   }
 ]
