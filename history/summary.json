@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.65%",
     "uptimeDay": "83.30%",
-    "uptimeWeek": "85.84%",
+    "uptimeWeek": "85.96%",
     "uptimeMonth": "95.30%",
     "uptimeYear": "98.79%",
     "time": 981,
@@ -226,9 +226,9 @@
     "slug": "linerly-bot-discord",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "88.91%",
-    "uptimeWeek": "94.38%",
-    "uptimeMonth": "97.04%",
+    "uptimeDay": "89.37%",
+    "uptimeWeek": "94.45%",
+    "uptimeMonth": "97.06%",
     "uptimeYear": "99.17%",
     "time": 4106,
     "timeDay": 12375,
@@ -236,7 +236,7 @@
     "timeMonth": 7697,
     "timeYear": 4428,
     "dailyMinutesDown": {
-      "2023-01-13": 160,
+      "2023-01-13": 153,
       "2023-01-12": 34,
       "2023-01-11": 110,
       "2023-01-09": 52,
@@ -283,7 +283,7 @@
       "2022-11-17": 94,
       "2022-11-16": 184,
       "2022-11-15": 254,
-      "2022-11-14": 26
+      "2022-11-14": 46
     }
   },
   {
@@ -350,19 +350,19 @@
     "url": "https://immich.linerly.tk",
     "icon": "https://immich.linerly.tk/favicon.png",
     "slug": "immich",
-    "status": "up",
-    "uptime": "31.89%",
-    "uptimeDay": "18.10%",
-    "uptimeWeek": "31.89%",
-    "uptimeMonth": "31.89%",
-    "uptimeYear": "31.89%",
+    "status": "down",
+    "uptime": "32.17%",
+    "uptimeDay": "18.90%",
+    "uptimeWeek": "32.17%",
+    "uptimeMonth": "32.17%",
+    "uptimeYear": "32.17%",
     "time": 5232,
     "timeDay": 6231,
     "timeWeek": 5232,
     "timeMonth": 5232,
     "timeYear": 5232,
     "dailyMinutesDown": {
-      "2023-01-13": 1160,
+      "2023-01-13": 1161,
       "2023-01-12": 664
     }
   }
