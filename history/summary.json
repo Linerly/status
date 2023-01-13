@@ -224,11 +224,11 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "89.37%",
-    "uptimeWeek": "94.45%",
-    "uptimeMonth": "97.06%",
+    "uptimeDay": "89.32%",
+    "uptimeWeek": "94.44%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "99.17%",
     "time": 4076,
     "timeDay": 11542,
@@ -236,7 +236,7 @@
     "timeMonth": 7535,
     "timeYear": 4405,
     "dailyMinutesDown": {
-      "2023-01-13": 153,
+      "2023-01-13": 154,
       "2023-01-12": 34,
       "2023-01-11": 110,
       "2023-01-09": 52,
@@ -283,7 +283,7 @@
       "2022-11-17": 94,
       "2022-11-16": 184,
       "2022-11-15": 254,
-      "2022-11-14": 46
+      "2022-11-14": 26
     }
   },
   {
@@ -351,18 +351,18 @@
     "icon": "https://immich.linerly.tk/favicon.png",
     "slug": "immich",
     "status": "down",
-    "uptime": "35.44%",
-    "uptimeDay": "24.88%",
-    "uptimeWeek": "35.44%",
-    "uptimeMonth": "35.44%",
-    "uptimeYear": "35.44%",
+    "uptime": "34.62%",
+    "uptimeDay": "24.15%",
+    "uptimeWeek": "34.62%",
+    "uptimeMonth": "34.62%",
+    "uptimeYear": "34.62%",
     "time": 5413,
-    "timeDay": 5527,
+    "timeDay": 5942,
     "timeWeek": 5413,
     "timeMonth": 5413,
     "timeYear": 5413,
     "dailyMinutesDown": {
-      "2023-01-13": 879,
+      "2023-01-13": 936,
       "2023-01-12": 664
     }
   }
