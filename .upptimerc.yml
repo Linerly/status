@@ -1,6 +1,5 @@
-# Change these first
-owner: Linerly # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: Linerly
+repo: status
 
 sites:
   - name: Website
@@ -22,13 +21,11 @@ sites:
     icon: https://immich.linerly.tk/favicon.png
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.linerly.tk
+  # baseUrl: /status
   name: "Linerly's Service Status"
   introTitle: "This is where you can see all of my service's status."
-  introMessage: "*All powered by Upptime (and GitHub)!*"
+  introMessage: "Powered by Upptime on GitHub"
   navbar:
     - title: Status
       href: /
@@ -48,7 +45,4 @@ status-website:
     - name: "description"
       content: "Here you can see Linerly's service status."
     - name: "keywords"
-      content: "Linerly, Status, Uptime, Downtime, Up, Down, Online, Offline, Upptime, GitHub, Pages, GitHub Pages, CI"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      content: "Linerly, Status, Uptime, Downtime, Up, Down, Online, Offline, Upptime, GitHub, Pages, GitHub Pages"
