@@ -7,7 +7,7 @@ sites:
     icon: https://linerly.tk/assets/icon-optimized.svg
   - name: SearXNG
     url: https://searxng.linerly.tk
-    icon: https://searxng.linerly.tk/static/themes/simple/img/favicon.svg
+    icon: https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg
   - name: MortyProxy
     url: https://proxy.linerly.tk
   - name: LinerlyBot (Discord)
@@ -15,7 +15,7 @@ sites:
     icon: https://linerly.tk/assets/linerlybot/linerlybot.png
   - name: Apkes
     url: https://apkes.linerly.tk
-    icon: https://apkes.linerly.tk/icon.svg
+    icon: https://codeberg.org/Linerly/apkes/raw/branch/main/public/icons/icon.svg
   - name: Immich
     url: https://immich.linerly.tk
     icon: https://immich.linerly.tk/favicon.png
