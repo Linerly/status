@@ -137,9 +137,9 @@
     "slug": "morty-proxy",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "98.82%",
     "time": 2553,
     "timeDay": 4887,
@@ -147,7 +147,6 @@
     "timeMonth": 3277,
     "timeYear": 2553,
     "dailyMinutesDown": {
-      "2023-01-21": 8,
       "2023-01-14": 35,
       "2023-01-08": 111,
       "2023-01-07": 41,
@@ -226,7 +225,8 @@
       "2022-04-27": 62,
       "2022-04-26": 36,
       "2022-04-23": 25,
-      "2022-04-20": 71
+      "2022-04-20": 71,
+      "2022-04-15": 18
     }
   },
   {
@@ -236,9 +236,9 @@
     "slug": "linerly-bot-discord",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "89.68%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "95.43%",
+    "uptimeDay": "90.25%",
+    "uptimeWeek": "92.09%",
+    "uptimeMonth": "95.45%",
     "uptimeYear": "99.14%",
     "time": 4348,
     "timeDay": 8781,
@@ -246,7 +246,7 @@
     "timeMonth": 7724,
     "timeYear": 4588,
     "dailyMinutesDown": {
-      "2023-01-21": 80,
+      "2023-01-21": 72,
       "2023-01-20": 286,
       "2023-01-19": 115,
       "2023-01-18": 17,
@@ -296,7 +296,7 @@
       "2022-11-23": 43,
       "2022-11-22": 347,
       "2022-11-21": 106,
-      "2022-11-20": 52
+      "2022-11-20": 84
     }
   },
   {
@@ -369,19 +369,19 @@
     "url": "https://immich.linerly.tk",
     "icon": "https://immich.linerly.tk/favicon.png",
     "slug": "immich",
-    "status": "up",
-    "uptime": "24.00%",
-    "uptimeDay": "30.94%",
-    "uptimeWeek": "20.79%",
-    "uptimeMonth": "24.00%",
-    "uptimeYear": "24.00%",
+    "status": "down",
+    "uptime": "24.02%",
+    "uptimeDay": "31.30%",
+    "uptimeWeek": "20.78%",
+    "uptimeMonth": "24.02%",
+    "uptimeYear": "24.02%",
     "time": 4718,
     "timeDay": 4549,
     "timeWeek": 4507,
     "timeMonth": 4718,
     "timeYear": 4718,
     "dailyMinutesDown": {
-      "2023-01-21": 191,
+      "2023-01-21": 192,
       "2023-01-20": 1347,
       "2023-01-19": 1085,
       "2023-01-18": 1305,
