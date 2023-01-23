@@ -67,18 +67,18 @@
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "sear-xng",
     "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "98.98%",
+    "uptime": "99.07%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "98.96%",
     "time": 3254,
     "timeDay": 2083,
     "timeWeek": 4877,
     "timeMonth": 4110,
     "timeYear": 3339,
     "dailyMinutesDown": {
-      "2023-01-23": 45,
+      "2023-01-23": 38,
       "2023-01-22": 32,
       "2023-01-21": 26,
       "2023-01-19": 56,
@@ -129,7 +129,7 @@
       "2022-11-19": 176,
       "2022-11-18": 33,
       "2022-11-17": 315,
-      "2022-11-16": 75
+      "2022-11-16": 187
     }
   },
   {
@@ -139,9 +139,9 @@
     "slug": "morty-proxy",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "98.83%",
     "time": 2535,
     "timeDay": 1462,
@@ -149,7 +149,6 @@
     "timeMonth": 3086,
     "timeYear": 2535,
     "dailyMinutesDown": {
-      "2023-01-23": 7,
       "2023-01-14": 35,
       "2023-01-08": 111,
       "2023-01-07": 41,
@@ -228,7 +227,8 @@
       "2022-04-27": 62,
       "2022-04-26": 36,
       "2022-04-23": 25,
-      "2022-04-20": 71
+      "2022-04-20": 71,
+      "2022-04-15": 18
     }
   },
   {
@@ -238,9 +238,9 @@
     "slug": "linerly-bot-discord",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "84.22%",
-    "uptimeWeek": "90.05%",
-    "uptimeMonth": "94.60%",
+    "uptimeDay": "84.73%",
+    "uptimeWeek": "90.12%",
+    "uptimeMonth": "94.62%",
     "uptimeYear": "99.13%",
     "time": 4305,
     "timeDay": 5649,
@@ -248,7 +248,7 @@
     "timeMonth": 7884,
     "timeYear": 4674,
     "dailyMinutesDown": {
-      "2023-01-23": 228,
+      "2023-01-23": 221,
       "2023-01-22": 165,
       "2023-01-21": 72,
       "2023-01-20": 286,
@@ -298,7 +298,7 @@
       "2022-11-25": 122,
       "2022-11-24": 112,
       "2022-11-23": 43,
-      "2022-11-22": 181
+      "2022-11-22": 206
     }
   },
   {
@@ -368,19 +368,19 @@
     "url": "https://immich.linerly.tk",
     "icon": "https://immich.linerly.tk/favicon.png",
     "slug": "immich",
-    "status": "up",
-    "uptime": "24.15%",
-    "uptimeDay": "34.29%",
-    "uptimeWeek": "21.32%",
-    "uptimeMonth": "24.15%",
-    "uptimeYear": "24.15%",
+    "status": "down",
+    "uptime": "24.18%",
+    "uptimeDay": "34.24%",
+    "uptimeWeek": "21.39%",
+    "uptimeMonth": "24.18%",
+    "uptimeYear": "24.18%",
     "time": 4728,
     "timeDay": 4699,
     "timeWeek": 4268,
     "timeMonth": 4728,
     "timeYear": 4728,
     "dailyMinutesDown": {
-      "2023-01-23": 935,
+      "2023-01-23": 936,
       "2023-01-22": 1052,
       "2023-01-21": 1000,
       "2023-01-20": 1347,
