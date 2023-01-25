@@ -240,18 +240,18 @@
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "84.40%",
-    "uptimeWeek": "86.36%",
-    "uptimeMonth": "93.51%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.41%",
+    "uptimeDay": "84.81%",
+    "uptimeWeek": "86.41%",
+    "uptimeMonth": "93.53%",
+    "uptimeYear": "99.18%",
     "time": 4486,
     "timeDay": 9290,
     "timeWeek": 9406,
     "timeMonth": 8195,
     "timeYear": 4765,
     "dailyMinutesDown": {
-      "2023-01-25": 184,
+      "2023-01-25": 178,
       "2023-01-24": 333,
       "2023-01-23": 221,
       "2023-01-22": 165,
@@ -296,7 +296,7 @@
       "2022-12-02": 29,
       "2022-12-01": 37,
       "2022-11-30": 112,
-      "2022-11-29": 19
+      "2022-11-29": 160
     }
   },
   {
@@ -306,8 +306,8 @@
     "slug": "apkes",
     "status": "up",
     "uptime": "97.56%",
-    "uptimeDay": "88.44%",
-    "uptimeWeek": "80.78%",
+    "uptimeDay": "88.86%",
+    "uptimeWeek": "80.84%",
     "uptimeMonth": "89.81%",
     "uptimeYear": "97.56%",
     "time": 2816,
@@ -363,19 +363,19 @@
     "url": "https://immich.linerly.tk",
     "icon": "https://immich.linerly.tk/favicon.png",
     "slug": "immich",
-    "status": "up",
-    "uptime": "32.51%",
-    "uptimeDay": "40.99%",
-    "uptimeWeek": "27.45%",
-    "uptimeMonth": "32.51%",
-    "uptimeYear": "32.51%",
+    "status": "down",
+    "uptime": "35.29%",
+    "uptimeDay": "41.36%",
+    "uptimeWeek": "27.50%",
+    "uptimeMonth": "35.29%",
+    "uptimeYear": "35.29%",
     "time": 4728,
     "timeDay": 4693,
     "timeWeek": 4811,
     "timeMonth": 4728,
     "timeYear": 4728,
     "dailyMinutesDown": {
-      "2023-01-25": 684,
+      "2023-01-25": 685,
       "2023-01-24": 945,
       "2023-01-23": 955,
       "2023-01-22": 1052,
@@ -386,8 +386,7 @@
       "2023-01-17": 1182,
       "2023-01-16": 1320,
       "2023-01-15": 961,
-      "2023-01-14": 938,
-      "2023-01-13": 546
+      "2023-01-14": 938
     }
   }
 ]
