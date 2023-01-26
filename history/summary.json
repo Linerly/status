@@ -304,7 +304,7 @@
     "slug": "apkes",
     "status": "up",
     "uptime": "97.61%",
-    "uptimeDay": "97.39%",
+    "uptimeDay": "97.80%",
     "uptimeWeek": "81.25%",
     "uptimeMonth": "89.76%",
     "uptimeYear": "97.61%",
@@ -362,19 +362,19 @@
     "url": "https://immich.linerly.tk",
     "icon": "https://immich.linerly.tk/favicon.png",
     "slug": "immich",
-    "status": "up",
-    "uptime": "39.88%",
-    "uptimeDay": "42.27%",
-    "uptimeWeek": "29.43%",
-    "uptimeMonth": "39.88%",
-    "uptimeYear": "39.88%",
+    "status": "down",
+    "uptime": "40.13%",
+    "uptimeDay": "42.22%",
+    "uptimeWeek": "29.61%",
+    "uptimeMonth": "40.13%",
+    "uptimeYear": "40.13%",
     "time": 4573,
     "timeDay": 2858,
-    "timeWeek": 4348,
+    "timeWeek": 4357,
     "timeMonth": 4573,
     "timeYear": 4573,
     "dailyMinutesDown": {
-      "2023-01-26": 543,
+      "2023-01-26": 544,
       "2023-01-25": 852,
       "2023-01-24": 945,
       "2023-01-23": 955,
@@ -386,7 +386,7 @@
       "2023-01-17": 1182,
       "2023-01-16": 1320,
       "2023-01-15": 961,
-      "2023-01-14": 50
+      "2023-01-14": 17
     }
   }
 ]
