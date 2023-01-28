@@ -363,19 +363,19 @@
     "url": "https://immich.linerly.tk",
     "icon": "https://immich.linerly.tk/favicon.png",
     "slug": "immich",
-    "status": "up",
-    "uptime": "44.41%",
-    "uptimeDay": "20.90%",
-    "uptimeWeek": "31.40%",
-    "uptimeMonth": "44.41%",
-    "uptimeYear": "44.41%",
+    "status": "down",
+    "uptime": "47.02%",
+    "uptimeDay": "22.23%",
+    "uptimeWeek": "31.53%",
+    "uptimeMonth": "47.02%",
+    "uptimeYear": "47.02%",
     "time": 4512,
     "timeDay": 3899,
     "timeWeek": 4353,
     "timeMonth": 4512,
     "timeYear": 4512,
     "dailyMinutesDown": {
-      "2023-01-28": 211,
+      "2023-01-28": 212,
       "2023-01-27": 1035,
       "2023-01-26": 860,
       "2023-01-25": 852,
@@ -387,7 +387,7 @@
       "2023-01-19": 1085,
       "2023-01-18": 1305,
       "2023-01-17": 1182,
-      "2023-01-16": 994
+      "2023-01-16": 404
     }
   }
 ]
