@@ -71,12 +71,12 @@
     "status": "up",
     "uptime": "99.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.65%",
+    "uptimeWeek": "96.96%",
     "uptimeMonth": "95.04%",
     "uptimeYear": "98.97%",
     "time": 3283,
     "timeDay": 1834,
-    "timeWeek": 5303,
+    "timeWeek": 5419,
     "timeMonth": 4493,
     "timeYear": 3377,
     "dailyMinutesDown": {
@@ -241,18 +241,18 @@
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "89.36%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "99.25%",
+    "uptime": "99.45%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "89.43%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "99.23%",
     "time": 4629,
     "timeDay": 6958,
     "timeWeek": 7783,
     "timeMonth": 8041,
     "timeYear": 4810,
     "dailyMinutesDown": {
-      "2023-01-29": 29,
+      "2023-01-29": 22,
       "2023-01-28": 23,
       "2023-01-27": 25,
       "2023-01-26": 131,
@@ -294,7 +294,8 @@
       "2022-12-09": 46,
       "2022-12-08": 123,
       "2022-12-07": 139,
-      "2022-12-06": 108
+      "2022-12-06": 108,
+      "2022-12-05": 97
     }
   },
   {
@@ -310,7 +311,7 @@
     "uptimeYear": "97.65%",
     "time": 2794,
     "timeDay": 2418,
-    "timeWeek": 5318,
+    "timeWeek": 5270,
     "timeMonth": 5086,
     "timeYear": 2794,
     "dailyMinutesDown": {
@@ -362,19 +363,19 @@
     "url": "https://immich.linerly.tk",
     "icon": "https://immich.linerly.tk/favicon.png",
     "slug": "immich",
-    "status": "up",
-    "uptime": "48.97%",
-    "uptimeDay": "6.33%",
-    "uptimeWeek": "29.16%",
-    "uptimeMonth": "48.97%",
-    "uptimeYear": "48.97%",
+    "status": "down",
+    "uptime": "49.28%",
+    "uptimeDay": "8.23%",
+    "uptimeWeek": "29.50%",
+    "uptimeMonth": "49.28%",
+    "uptimeYear": "49.28%",
     "time": 4526,
-    "timeDay": 5455,
+    "timeDay": 6513,
     "timeWeek": 4231,
     "timeMonth": 4526,
     "timeYear": 4526,
     "dailyMinutesDown": {
-      "2023-01-29": 476,
+      "2023-01-29": 477,
       "2023-01-28": 1324,
       "2023-01-27": 1035,
       "2023-01-26": 860,
@@ -386,7 +387,7 @@
       "2023-01-20": 1347,
       "2023-01-19": 1085,
       "2023-01-18": 1305,
-      "2023-01-17": 428
+      "2023-01-17": 368
     }
   }
 ]
