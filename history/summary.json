@@ -241,18 +241,18 @@
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "89.37%",
-    "uptimeMonth": "93.51%",
-    "uptimeYear": "99.25%",
+    "uptime": "99.45%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "89.43%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "99.23%",
     "time": 4632,
     "timeDay": 6978,
     "timeWeek": 7783,
-    "timeMonth": 7976,
+    "timeMonth": 7948,
     "timeYear": 4810,
     "dailyMinutesDown": {
-      "2023-01-29": 28,
+      "2023-01-29": 22,
       "2023-01-28": 23,
       "2023-01-27": 25,
       "2023-01-26": 131,
@@ -294,7 +294,8 @@
       "2022-12-09": 46,
       "2022-12-08": 123,
       "2022-12-07": 139,
-      "2022-12-06": 108
+      "2022-12-06": 108,
+      "2022-12-05": 97
     }
   },
   {
@@ -305,12 +306,12 @@
     "status": "up",
     "uptime": "97.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.19%",
+    "uptimeWeek": "84.33%",
     "uptimeMonth": "89.76%",
     "uptimeYear": "97.65%",
     "time": 2794,
     "timeDay": 2418,
-    "timeWeek": 5090,
+    "timeWeek": 5220,
     "timeMonth": 5086,
     "timeYear": 2794,
     "dailyMinutesDown": {
@@ -362,19 +363,19 @@
     "url": "https://immich.linerly.tk",
     "icon": "https://immich.linerly.tk/favicon.png",
     "slug": "immich",
-    "status": "up",
-    "uptime": "49.60%",
-    "uptimeDay": "14.11%",
-    "uptimeWeek": "30.51%",
-    "uptimeMonth": "49.60%",
-    "uptimeYear": "49.60%",
+    "status": "down",
+    "uptime": "49.74%",
+    "uptimeDay": "15.51%",
+    "uptimeWeek": "30.64%",
+    "uptimeMonth": "49.74%",
+    "uptimeYear": "49.74%",
     "time": 4484,
     "timeDay": 4452,
-    "timeWeek": 4181,
+    "timeWeek": 4199,
     "timeMonth": 4484,
     "timeYear": 4484,
     "dailyMinutesDown": {
-      "2023-01-29": 724,
+      "2023-01-29": 725,
       "2023-01-28": 1324,
       "2023-01-27": 1035,
       "2023-01-26": 860,
@@ -386,7 +387,7 @@
       "2023-01-20": 1347,
       "2023-01-19": 1085,
       "2023-01-18": 1305,
-      "2023-01-17": 228
+      "2023-01-17": 204
     }
   }
 ]
