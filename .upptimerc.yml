@@ -16,9 +16,6 @@ sites:
   - name: Apkes
     url: https://apkes.linerly.tk
     icon: https://codeberg.org/Linerly/apkes/raw/branch/main/public/icons/icon.svg
-  - name: Immich
-    url: https://immich.linerly.tk
-    icon: https://immich.linerly.tk/favicon.png
 
 status-website:
   cname: status.linerly.tk
