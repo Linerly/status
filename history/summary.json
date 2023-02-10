@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "93.57%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "99.06%",
     "time": 1457,
     "timeDay": 4059,
-    "timeWeek": 2697,
-    "timeMonth": 4861,
+    "timeWeek": 2265,
+    "timeMonth": 4813,
     "timeYear": 1865,
     "dailyMinutesDown": {
-      "2023-02-10": 7,
       "2023-02-09": 61,
       "2023-02-03": 98,
       "2023-01-31": 22,
@@ -57,7 +56,8 @@
       "2022-09-24": 19,
       "2022-09-21": 54,
       "2022-09-06": 70,
-      "2022-08-28": 74
+      "2022-08-28": 74,
+      "2022-08-21": 19
     }
   },
   {
@@ -242,18 +242,19 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "92.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "92.96%",
     "uptimeMonth": "92.12%",
-    "uptimeYear": "99.28%",
-    "time": 4754,
-    "timeDay": 9204,
-    "timeWeek": 7818,
+    "uptimeYear": "99.29%",
+    "time": 4756,
+    "timeDay": 5598,
+    "timeWeek": 7936,
     "timeMonth": 8012,
     "timeYear": 5047,
     "dailyMinutesDown": {
+      "2023-02-10": 0,
       "2023-02-09": 110,
       "2023-02-08": 315,
       "2023-02-07": 64,
@@ -287,7 +288,7 @@
       "2023-01-09": 52,
       "2023-01-08": 147,
       "2023-01-07": 61,
-      "2023-01-06": 76
+      "2023-01-06": 44
     }
   },
   {
@@ -296,18 +297,17 @@
     "icon": "https://codeberg.org/Linerly/apkes/raw/branch/main/public/icons/icon.svg",
     "slug": "apkes",
     "status": "up",
-    "uptime": "98.07%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "90.83%",
-    "uptimeYear": "98.07%",
+    "uptime": "98.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "90.85%",
+    "uptimeYear": "98.06%",
     "time": 2869,
     "timeDay": 1126,
-    "timeWeek": 1985,
+    "timeWeek": 2083,
     "timeMonth": 5130,
     "timeYear": 2869,
     "dailyMinutesDown": {
-      "2023-02-10": 6,
       "2023-02-03": 393,
       "2023-02-02": 117,
       "2023-02-01": 16,
@@ -339,7 +339,8 @@
       "2022-11-15": 19,
       "2022-11-13": 24,
       "2022-11-12": 55,
-      "2022-11-10": 31
+      "2022-11-10": 31,
+      "2022-11-08": 25
     }
   }
 ]
