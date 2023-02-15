@@ -4,18 +4,19 @@
     "url": "https://linerly.tk",
     "icon": "https://linerly.tk/assets/icon-optimized.svg",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "95.30%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "95.31%",
     "uptimeYear": "99.09%",
-    "time": 1501,
-    "timeDay": 2419,
+    "time": 1503,
+    "timeDay": 805,
     "timeWeek": 1854,
-    "timeMonth": 4105,
+    "timeMonth": 4073,
     "timeYear": 1862,
     "dailyMinutesDown": {
+      "2023-02-15": 0,
       "2023-02-14": 18,
       "2023-02-12": 19,
       "2023-02-11": 20,
@@ -56,8 +57,7 @@
       "2022-10-13": 17,
       "2022-10-08": 24,
       "2022-09-30": 24,
-      "2022-09-27": 24,
-      "2022-09-24": 19
+      "2022-09-27": 24
     }
   },
   {
@@ -67,9 +67,9 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "97.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "97.96%",
     "uptimeYear": "98.97%",
     "time": 3266,
     "timeDay": 1693,
@@ -77,7 +77,6 @@
     "timeMonth": 3987,
     "timeYear": 3400,
     "dailyMinutesDown": {
-      "2023-02-15": 7,
       "2023-02-13": 20,
       "2023-02-12": 117,
       "2023-02-10": 19,
@@ -138,7 +137,7 @@
       "2022-11-23": 55,
       "2022-11-22": 263,
       "2022-11-21": 174,
-      "2022-11-20": 25
+      "2022-11-20": 46
     }
   },
   {
@@ -147,18 +146,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.linerly.tk.ico",
     "slug": "morty-proxy",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "98.93%",
     "time": 2582,
     "timeDay": 6765,
     "timeWeek": 5717,
     "timeMonth": 2945,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-02-15": 6,
       "2023-02-13": 21,
       "2023-02-08": 29,
       "2023-01-31": 21,
@@ -237,7 +235,8 @@
       "2022-05-10": 18,
       "2022-05-07": 19,
       "2022-05-05": 18,
-      "2022-04-30": 21
+      "2022-04-30": 21,
+      "2022-04-27": 62
     }
   },
   {
@@ -246,18 +245,17 @@
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "95.36%",
-    "uptimeMonth": "92.74%",
+    "uptime": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.27%",
     "time": 4816,
     "timeDay": 4522,
-    "timeWeek": 7309,
+    "timeWeek": 6748,
     "timeMonth": 8014,
-    "timeYear": 5091,
+    "timeYear": 5093,
     "dailyMinutesDown": {
-      "2023-02-15": 6,
       "2023-02-13": 20,
       "2023-02-12": 77,
       "2023-02-10": 50,
@@ -293,7 +291,8 @@
       "2023-01-11": 110,
       "2023-01-09": 52,
       "2023-01-08": 147,
-      "2023-01-07": 19
+      "2023-01-07": 61,
+      "2023-01-06": 3
     }
   },
   {
@@ -301,18 +300,19 @@
     "url": "https://apkes.linerly.tk",
     "icon": "https://codeberg.org/Linerly/apkes/raw/branch/main/public/icons/icon.svg",
     "slug": "apkes",
-    "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.81%",
-    "uptimeYear": "98.11%",
+    "status": "down",
+    "uptime": "98.12%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "91.88%",
+    "uptimeYear": "98.12%",
     "time": 2848,
     "timeDay": 834,
     "timeWeek": 1278,
-    "timeMonth": 5115,
+    "timeMonth": 5122,
     "timeYear": 2848,
     "dailyMinutesDown": {
+      "2023-02-15": 1,
       "2023-02-03": 393,
       "2023-02-02": 117,
       "2023-02-01": 16,
@@ -344,8 +344,7 @@
       "2022-11-15": 19,
       "2022-11-13": 24,
       "2022-11-12": 55,
-      "2022-11-10": 31,
-      "2022-11-08": 25
+      "2022-11-10": 31
     }
   }
 ]
