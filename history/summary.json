@@ -65,18 +65,19 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "98.98%",
-    "time": 3347,
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "98.99%",
+    "time": 3349,
     "timeDay": 537,
-    "timeWeek": 1218,
-    "timeMonth": 1682,
-    "timeYear": 3473,
+    "timeWeek": 1205,
+    "timeMonth": 1698,
+    "timeYear": 3481,
     "dailyMinutesDown": {
+      "2023-03-06": 1,
       "2023-03-04": 17,
       "2023-03-03": 37,
       "2023-02-27": 19,
@@ -139,7 +140,7 @@
       "2022-11-24": 77,
       "2022-11-23": 55,
       "2022-11-22": 263,
-      "2022-11-21": 62
+      "2022-11-21": 47
     }
   },
   {
@@ -147,18 +148,19 @@
     "url": "https://proxy.linerly.tk",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.linerly.tk.ico",
     "slug": "morty-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.00%",
     "time": 2509,
     "timeDay": 511,
-    "timeWeek": 599,
+    "timeWeek": 602,
     "timeMonth": 2767,
     "timeYear": 2509,
     "dailyMinutesDown": {
+      "2023-03-06": 1,
       "2023-02-27": 19,
       "2023-02-19": 16,
       "2023-02-13": 21,
@@ -237,8 +239,7 @@
       "2022-05-23": 49,
       "2022-05-17": 79,
       "2022-05-10": 18,
-      "2022-05-07": 19,
-      "2022-05-05": 18
+      "2022-05-07": 19
     }
   },
   {
@@ -246,18 +247,19 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "98.35%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.27%",
     "time": 4973,
     "timeDay": 988,
-    "timeWeek": 1210,
-    "timeMonth": 5842,
-    "timeYear": 5173,
+    "timeWeek": 1084,
+    "timeMonth": 5347,
+    "timeYear": 5181,
     "dailyMinutesDown": {
+      "2023-03-06": 1,
       "2023-02-27": 19,
       "2023-02-19": 16,
       "2023-02-13": 20,
@@ -294,7 +296,7 @@
       "2023-01-12": 34,
       "2023-01-11": 110,
       "2023-01-09": 52,
-      "2023-01-08": 147
+      "2023-01-08": 127
     }
   },
   {
