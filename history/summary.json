@@ -65,19 +65,19 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "98.98%",
-    "time": 3347,
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "98.99%",
+    "time": 3349,
     "timeDay": 643,
     "timeWeek": 1164,
     "timeMonth": 1679,
     "timeYear": 3479,
     "dailyMinutesDown": {
-      "2023-03-06": 10,
+      "2023-03-06": 0,
       "2023-03-04": 17,
       "2023-03-03": 37,
       "2023-02-27": 19,
@@ -150,9 +150,9 @@
     "slug": "morty-proxy",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.00%",
     "time": 2506,
     "timeDay": 580,
@@ -160,7 +160,6 @@
     "timeMonth": 2717,
     "timeYear": 2506,
     "dailyMinutesDown": {
-      "2023-03-06": 10,
       "2023-02-27": 19,
       "2023-02-19": 16,
       "2023-02-13": 21,
@@ -239,7 +238,8 @@
       "2022-05-23": 49,
       "2022-05-17": 79,
       "2022-05-10": 18,
-      "2022-05-07": 19
+      "2022-05-07": 19,
+      "2022-05-05": 18
     }
   },
   {
@@ -248,10 +248,10 @@
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.44%",
+    "uptime": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.27%",
     "time": 4974,
     "timeDay": 1084,
@@ -259,7 +259,6 @@
     "timeMonth": 5288,
     "timeYear": 5178,
     "dailyMinutesDown": {
-      "2023-03-06": 10,
       "2023-02-27": 19,
       "2023-02-19": 16,
       "2023-02-13": 20,
@@ -296,7 +295,7 @@
       "2023-01-12": 34,
       "2023-01-11": 110,
       "2023-01-09": 52,
-      "2023-01-08": 127
+      "2023-01-08": 147
     }
   },
   {
