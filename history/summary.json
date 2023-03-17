@@ -4,18 +4,19 @@
     "url": "https://linerly.tk",
     "icon": "https://linerly.tk/assets/icon-optimized.svg",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.09%",
-    "time": 1599,
+    "time": 1601,
     "timeDay": 1348,
     "timeWeek": 2757,
     "timeMonth": 1823,
     "timeYear": 1944,
     "dailyMinutesDown": {
+      "2023-03-17": 0,
       "2023-03-11": 19,
       "2023-03-10": 17,
       "2023-02-15": 31,
@@ -56,8 +57,7 @@
       "2022-11-12": 53,
       "2022-11-10": 32,
       "2022-11-07": 23,
-      "2022-10-13": 17,
-      "2022-10-08": 24
+      "2022-10-13": 17
     }
   },
   {
@@ -65,18 +65,19 @@
     "url": "https://searxng.linerly.tk",
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "98.97%",
-    "time": 3430,
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "98.99%",
+    "time": 3432,
     "timeDay": 775,
     "timeWeek": 1399,
     "timeMonth": 1457,
-    "timeYear": 3444,
+    "timeYear": 3448,
     "dailyMinutesDown": {
+      "2023-03-17": 0,
       "2023-03-15": 20,
       "2023-03-09": 99,
       "2023-03-07": 20,
@@ -141,7 +142,7 @@
       "2022-11-25": 121,
       "2022-11-24": 77,
       "2022-11-23": 55,
-      "2022-11-22": 263
+      "2022-11-22": 137
     }
   },
   {
@@ -149,10 +150,10 @@
     "url": "https://proxy.linerly.tk",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.linerly.tk.ico",
     "slug": "morty-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.03%",
     "time": 2461,
@@ -161,6 +162,7 @@
     "timeMonth": 659,
     "timeYear": 2461,
     "dailyMinutesDown": {
+      "2023-03-17": 1,
       "2023-03-15": 20,
       "2023-03-06": 22,
       "2023-02-27": 19,
@@ -239,8 +241,7 @@
       "2022-06-07": 107,
       "2022-06-06": 28,
       "2022-05-23": 49,
-      "2022-05-17": 79,
-      "2022-05-10": 18
+      "2022-05-17": 79
     }
   },
   {
@@ -248,18 +249,19 @@
     "url": "https://linerlybot-discord.linerly.tk",
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.78%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.28%",
-    "time": 5101,
+    "time": 5104,
     "timeDay": 1180,
     "timeWeek": 2502,
     "timeMonth": 1585,
     "timeYear": 5257,
     "dailyMinutesDown": {
+      "2023-03-17": 1,
       "2023-03-15": 20,
       "2023-03-14": 87,
       "2023-03-13": 17,
@@ -298,8 +300,7 @@
       "2023-01-14": 104,
       "2023-01-13": 153,
       "2023-01-12": 34,
-      "2023-01-11": 110,
-      "2023-01-09": 29
+      "2023-01-11": 110
     }
   },
   {
@@ -307,18 +308,19 @@
     "url": "https://apkes.linerly.tk",
     "icon": "https://codeberg.org/Linerly/apkes/raw/branch/main/public/icons/icon.svg",
     "slug": "apkes",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "98.37%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "98.36%",
+    "uptimeYear": "98.37%",
     "time": 2725,
     "timeDay": 1311,
     "timeWeek": 1077,
     "timeMonth": 1375,
     "timeYear": 2725,
     "dailyMinutesDown": {
+      "2023-03-17": 1,
       "2023-03-10": 17,
       "2023-03-08": 19,
       "2023-02-15": 31,
@@ -350,8 +352,7 @@
       "2023-01-03": 195,
       "2022-11-19": 116,
       "2022-11-16": 110,
-      "2022-11-15": 19,
-      "2022-11-13": 24
+      "2022-11-15": 19
     }
   }
 ]
