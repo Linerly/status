@@ -3,22 +3,22 @@ repo: status
 
 sites:
   - name: Website
-    url: https://linerly.tk
-    icon: https://linerly.tk/assets/icon-optimized.svg
+    url: https://linerly.codeberg.page
+    icon: https://linerly.codeberg.page/assets/icon-optimized.svg
   - name: SearXNG
-    url: https://searxng.linerly.tk
+    url: https://searxng.linerly.repl.co
     icon: https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg
   - name: MortyProxy
-    url: https://proxy.linerly.tk
+    url: https://morty.linerly.repl.co
   - name: LinerlyBot (Discord)
-    url: https://linerlybot-discord.linerly.tk
+    url: https://linerlybot-discord.linerly.repl.co
     icon: https://linerly.tk/assets/linerlybot/linerlybot.png
-  - name: Apkes
-    url: https://apkes.linerly.tk
-    icon: https://codeberg.org/Linerly/apkes/raw/branch/main/public/icons/icon.svg
+
+
+
 
 status-website:
-  cname: status.linerly.tk
+  baseUrl: /status
   name: "Linerly's Service Status"
   introTitle: "See all the status of Linerly's services"
   introMessage: "Powered by Upptime on GitHub"
@@ -26,11 +26,11 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://linerly.tk
+      href: https://linerly.codeberg.page
     - title: Blog
-      href: https://linerly.tk/en/blog
-  logoUrl: https://linerly.tk/assets/icon-optimized.svg
-  faviconSvg: https://linerly.tk/assets/icon-optimized.svg
+      href: https://linerly.codeberg.page/en/blog
+  logoUrl: https://linerly.codeberg.page/assets/icon-optimized.svg
+  faviconSvg: https://linerly.codeberg.page/assets/icon-optimized.svg
   theme: ocean
   metaTags:
     - name: "theme-color"
