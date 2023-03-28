@@ -1,7 +1,7 @@
 url: https://morty.linerly.repl.co
-status: down
-code: 429
-responseTime: 331
-lastUpdated: 2023-03-28T22:36:13.698Z
+status: up
+code: 200
+responseTime: 2949
+lastUpdated: 2023-03-28T22:42:48.266Z
 startTime: Tue Apr 12 2022 11:12:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
