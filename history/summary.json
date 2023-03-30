@@ -4,18 +4,19 @@
     "url": "https://linerly.codeberg.page",
     "icon": "https://linerly.codeberg.page/assets/icon-optimized.svg",
     "slug": "website",
-    "status": "up",
-    "uptime": "97.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "35.29%",
+    "status": "down",
+    "uptime": "97.58%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "37.75%",
     "uptimeMonth": "63.81%",
     "uptimeYear": "96.08%",
-    "time": 1631,
-    "timeDay": 1024,
-    "timeWeek": 1231,
-    "timeMonth": 1797,
-    "timeYear": 1986,
+    "time": 1647,
+    "timeDay": 5756,
+    "timeWeek": 3082,
+    "timeMonth": 2131,
+    "timeYear": 2002,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-03-28": 231,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
@@ -67,8 +68,7 @@
       "2022-11-13": 20,
       "2022-11-12": 53,
       "2022-11-10": 32,
-      "2022-11-07": 23,
-      "2022-10-13": 17
+      "2022-11-07": 23
     }
   },
   {
@@ -78,17 +78,16 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "97.02%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "41.78%",
-    "uptimeMonth": "64.95%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "44.37%",
+    "uptimeMonth": "64.98%",
     "uptimeYear": "96.13%",
     "time": 3467,
     "timeDay": 592,
     "timeWeek": 2713,
     "timeMonth": 2097,
-    "timeYear": 3475,
+    "timeYear": 3477,
     "dailyMinutesDown": {
-      "2023-03-30": 12,
       "2023-03-29": 65,
       "2023-03-28": 53,
       "2023-03-27": 887,
@@ -166,7 +165,7 @@
       "2022-11-25": 121,
       "2022-11-24": 77,
       "2022-11-23": 55,
-      "2022-11-22": 37
+      "2022-11-22": 53
     }
   },
   {
@@ -176,9 +175,9 @@
     "slug": "morty-proxy",
     "status": "up",
     "uptime": "96.11%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "42.20%",
-    "uptimeMonth": "65.39%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "44.79%",
+    "uptimeMonth": "65.42%",
     "uptimeYear": "96.11%",
     "time": 2465,
     "timeDay": 1550,
@@ -186,7 +185,6 @@
     "timeMonth": 1395,
     "timeYear": 2465,
     "dailyMinutesDown": {
-      "2023-03-30": 12,
       "2023-03-29": 29,
       "2023-03-28": 46,
       "2023-03-27": 887,
@@ -276,7 +274,8 @@
       "2022-06-11": 20,
       "2022-06-09": 41,
       "2022-06-07": 107,
-      "2022-06-06": 28
+      "2022-06-06": 28,
+      "2022-05-23": 49
     }
   },
   {
@@ -287,14 +286,14 @@
     "status": "down",
     "uptime": "97.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "35.29%",
+    "uptimeWeek": "37.76%",
     "uptimeMonth": "63.57%",
     "uptimeYear": "96.27%",
     "time": 5308,
     "timeDay": 445,
     "timeWeek": 2903,
     "timeMonth": 1936,
-    "timeYear": 5407,
+    "timeYear": 5414,
     "dailyMinutesDown": {
       "2023-03-28": 231,
       "2023-03-27": 1440,
