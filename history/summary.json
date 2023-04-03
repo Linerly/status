@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.45%",
+    "uptimeWeek": "91.45%",
     "uptimeMonth": "63.81%",
     "uptimeYear": "96.08%",
     "time": 1669,
@@ -78,9 +78,9 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "97.05%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "65.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "65.06%",
     "uptimeYear": "96.13%",
     "time": 3462,
     "timeDay": 452,
@@ -88,7 +88,6 @@
     "timeMonth": 1976,
     "timeYear": 3433,
     "dailyMinutesDown": {
-      "2023-04-03": 6,
       "2023-03-29": 65,
       "2023-03-28": 53,
       "2023-03-27": 887,
@@ -166,7 +165,7 @@
       "2022-11-25": 121,
       "2022-11-24": 77,
       "2022-11-23": 55,
-      "2022-11-22": 37
+      "2022-11-22": 53
     }
   },
   {
@@ -174,18 +173,19 @@
     "url": "https://morty.linerly.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/morty.linerly.repl.co.ico",
     "slug": "morty-proxy",
-    "status": "up",
-    "uptime": "96.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.48%",
+    "status": "down",
+    "uptime": "96.16%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.48%",
     "uptimeMonth": "65.42%",
-    "uptimeYear": "96.15%",
-    "time": 2449,
-    "timeDay": 480,
-    "timeWeek": 2043,
-    "timeMonth": 1329,
-    "timeYear": 2449,
+    "uptimeYear": "96.16%",
+    "time": 2448,
+    "timeDay": 1235,
+    "timeWeek": 2040,
+    "timeMonth": 1347,
+    "timeYear": 2448,
     "dailyMinutesDown": {
+      "2023-04-03": 1,
       "2023-03-29": 29,
       "2023-03-28": 46,
       "2023-03-27": 887,
@@ -275,8 +275,7 @@
       "2022-06-11": 20,
       "2022-06-09": 41,
       "2022-06-07": 107,
-      "2022-06-06": 28,
-      "2022-05-23": 49
+      "2022-06-06": 28
     }
   },
   {
@@ -287,7 +286,7 @@
     "status": "down",
     "uptime": "97.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.45%",
+    "uptimeWeek": "91.45%",
     "uptimeMonth": "63.57%",
     "uptimeYear": "96.27%",
     "time": 5364,
