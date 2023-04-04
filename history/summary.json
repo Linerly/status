@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "97.59%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "63.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "63.81%",
     "uptimeYear": "96.08%",
     "time": 1687,
-    "timeDay": 4714,
+    "timeDay": 4110,
     "timeWeek": 3161,
     "timeMonth": 2478,
     "timeYear": 2035,
     "dailyMinutesDown": {
-      "2023-04-04": 6,
       "2023-03-28": 231,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
@@ -68,7 +67,8 @@
       "2022-11-13": 20,
       "2022-11-12": 53,
       "2022-11-10": 32,
-      "2022-11-07": 23
+      "2022-11-07": 23,
+      "2022-10-13": 17
     }
   },
   {
@@ -76,18 +76,19 @@
     "url": "https://searxng.linerly.repl.co",
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "97.05%",
-    "uptimeDay": "95.91%",
+    "status": "down",
+    "uptime": "97.06%",
+    "uptimeDay": "95.89%",
     "uptimeWeek": "98.25%",
     "uptimeMonth": "64.93%",
-    "uptimeYear": "96.12%",
-    "time": 3458,
+    "uptimeYear": "96.13%",
+    "time": 3455,
     "timeDay": 547,
     "timeWeek": 1869,
     "timeMonth": 1915,
-    "timeYear": 3418,
+    "timeYear": 3420,
     "dailyMinutesDown": {
+      "2023-04-04": 0,
       "2023-04-03": 59,
       "2023-03-29": 65,
       "2023-03-28": 53,
@@ -164,9 +165,7 @@
       "2022-11-27": 84,
       "2022-11-26": 46,
       "2022-11-25": 121,
-      "2022-11-24": 77,
-      "2022-11-23": 55,
-      "2022-11-22": 3
+      "2022-11-24": 77
     }
   },
   {
@@ -174,18 +173,19 @@
     "url": "https://morty.linerly.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/morty.linerly.repl.co.ico",
     "slug": "morty-proxy",
-    "status": "up",
-    "uptime": "96.16%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "98.86%",
+    "status": "down",
+    "uptime": "96.17%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "65.33%",
-    "uptimeYear": "96.16%",
+    "uptimeYear": "96.17%",
     "time": 2465,
     "timeDay": 5007,
     "timeWeek": 2516,
     "timeMonth": 1723,
     "timeYear": 2465,
     "dailyMinutesDown": {
+      "2023-04-04": 0,
       "2023-04-03": 40,
       "2023-03-29": 29,
       "2023-03-28": 46,
@@ -275,8 +275,7 @@
       "2022-06-14": 19,
       "2022-06-11": 20,
       "2022-06-09": 41,
-      "2022-06-07": 107,
-      "2022-06-06": 28
+      "2022-06-07": 85
     }
   },
   {
