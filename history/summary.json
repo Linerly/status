@@ -172,9 +172,9 @@
     "url": "https://morty.linerly.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/morty.linerly.repl.co.ico",
     "slug": "morty-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "96.19%",
-    "uptimeDay": "92.50%",
+    "uptimeDay": "92.46%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "65.13%",
     "uptimeYear": "96.19%",
@@ -184,7 +184,7 @@
     "timeMonth": 2373,
     "timeYear": 2491,
     "dailyMinutesDown": {
-      "2023-04-07": 108,
+      "2023-04-07": 109,
       "2023-04-03": 40,
       "2023-03-29": 29,
       "2023-03-28": 46,
@@ -274,7 +274,7 @@
       "2022-06-14": 19,
       "2022-06-11": 20,
       "2022-06-09": 41,
-      "2022-06-07": 85
+      "2022-06-07": 63
     }
   },
   {
