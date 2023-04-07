@@ -5,7 +5,7 @@
     "icon": "https://linerly.codeberg.page/assets/icon-optimized.svg",
     "slug": "website",
     "status": "up",
-    "uptime": "97.60%",
+    "uptime": "97.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "63.81%",
@@ -173,18 +173,19 @@
     "url": "https://morty.linerly.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/morty.linerly.repl.co.ico",
     "slug": "morty-proxy",
-    "status": "up",
-    "uptime": "96.19%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.21%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "65.38%",
-    "uptimeYear": "96.19%",
+    "uptimeYear": "96.21%",
     "time": 2452,
     "timeDay": 352,
     "timeWeek": 1930,
     "timeMonth": 1742,
     "timeYear": 2452,
     "dailyMinutesDown": {
+      "2023-04-07": 1,
       "2023-04-03": 40,
       "2023-03-29": 29,
       "2023-03-28": 46,
@@ -274,8 +275,7 @@
       "2022-06-14": 19,
       "2022-06-11": 20,
       "2022-06-09": 41,
-      "2022-06-07": 107,
-      "2022-06-06": 28
+      "2022-06-07": 85
     }
   },
   {
@@ -293,7 +293,7 @@
     "timeDay": 5205,
     "timeWeek": 3793,
     "timeMonth": 2782,
-    "timeYear": 5481,
+    "timeYear": 5470,
     "dailyMinutesDown": {
       "2023-03-28": 231,
       "2023-03-27": 1440,
