@@ -76,18 +76,19 @@
     "url": "https://searxng.linerly.repl.co",
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "97.09%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.10%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.71%",
     "uptimeMonth": "64.25%",
-    "uptimeYear": "96.10%",
-    "time": 3436,
-    "timeDay": 437,
+    "uptimeYear": "96.12%",
+    "time": 3437,
+    "timeDay": 589,
     "timeWeek": 1926,
-    "timeMonth": 1703,
-    "timeYear": 3368,
+    "timeMonth": 1633,
+    "timeYear": 3370,
     "dailyMinutesDown": {
+      "2023-04-13": 0,
       "2023-04-10": 57,
       "2023-04-07": 376,
       "2023-04-03": 59,
@@ -162,8 +163,7 @@
       "2022-12-01": 59,
       "2022-11-30": 112,
       "2022-11-29": 141,
-      "2022-11-28": 165,
-      "2022-11-27": 84
+      "2022-11-28": 165
     }
   },
   {
@@ -173,9 +173,9 @@
     "slug": "morty-proxy",
     "status": "up",
     "uptime": "96.23%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "64.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "64.67%",
     "uptimeYear": "96.22%",
     "time": 2480,
     "timeDay": 495,
@@ -183,7 +183,6 @@
     "timeMonth": 2522,
     "timeYear": 2491,
     "dailyMinutesDown": {
-      "2023-04-13": 11,
       "2023-04-07": 311,
       "2023-04-03": 40,
       "2023-03-29": 29,
@@ -271,7 +270,8 @@
       "2022-06-19": 16,
       "2022-06-17": 86,
       "2022-06-15": 21,
-      "2022-06-14": 19
+      "2022-06-14": 19,
+      "2022-06-11": 20
     }
   },
   {
@@ -283,13 +283,13 @@
     "uptime": "97.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.62%",
+    "uptimeMonth": "63.65%",
     "uptimeYear": "96.27%",
     "time": 5436,
     "timeDay": 5189,
     "timeWeek": 3740,
     "timeMonth": 3381,
-    "timeYear": 5494,
+    "timeYear": 5498,
     "dailyMinutesDown": {
       "2023-03-28": 231,
       "2023-03-27": 1440,
