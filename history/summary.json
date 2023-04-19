@@ -4,17 +4,17 @@
     "url": "https://linerly.codeberg.page",
     "icon": "https://linerly.codeberg.page/assets/icon-optimized.svg",
     "slug": "website",
-    "status": "up",
-    "uptime": "97.65%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "70.75%",
-    "uptimeYear": "96.08%",
-    "time": 1840,
-    "timeDay": 4058,
-    "timeWeek": 5762,
-    "timeMonth": 3704,
-    "timeYear": 2171,
+    "status": "down",
+    "uptime": "97.66%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "71.08%",
+    "uptimeYear": "96.09%",
+    "time": 1862,
+    "timeDay": 6719,
+    "timeWeek": 6259,
+    "timeMonth": 3972,
+    "timeYear": 2194,
     "dailyMinutesDown": {
       "2023-04-19": 17,
       "2023-04-17": 23,
@@ -67,8 +67,7 @@
       "2022-11-16": 111,
       "2022-11-15": 63,
       "2022-11-13": 20,
-      "2022-11-12": 53,
-      "2022-11-10": 32
+      "2022-11-12": 53
     }
   },
   {
@@ -80,7 +79,7 @@
     "uptime": "97.15%",
     "uptimeDay": "98.83%",
     "uptimeWeek": "99.63%",
-    "uptimeMonth": "71.16%",
+    "uptimeMonth": "71.49%",
     "uptimeYear": "96.13%",
     "time": 3388,
     "timeDay": 396,
@@ -174,9 +173,9 @@
     "slug": "morty-proxy",
     "status": "up",
     "uptime": "96.29%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "71.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "71.99%",
     "uptimeYear": "96.22%",
     "time": 2457,
     "timeDay": 452,
@@ -184,7 +183,6 @@
     "timeMonth": 2407,
     "timeYear": 2503,
     "dailyMinutesDown": {
-      "2023-04-19": 6,
       "2023-04-07": 311,
       "2023-04-03": 40,
       "2023-03-29": 29,
@@ -272,7 +270,8 @@
       "2022-06-19": 16,
       "2022-06-17": 86,
       "2022-06-15": 21,
-      "2022-06-14": 19
+      "2022-06-14": 19,
+      "2022-06-11": 20
     }
   },
   {
@@ -284,7 +283,7 @@
     "uptime": "97.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.84%",
+    "uptimeMonth": "71.17%",
     "uptimeYear": "96.27%",
     "time": 5426,
     "timeDay": 5163,
