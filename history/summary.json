@@ -76,19 +76,19 @@
     "url": "https://searxng.linerly.repl.co",
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "97.32%",
-    "uptimeDay": "94.95%",
+    "status": "down",
+    "uptime": "97.33%",
+    "uptimeDay": "95.86%",
     "uptimeWeek": "97.82%",
     "uptimeMonth": "98.92%",
-    "uptimeYear": "96.21%",
-    "time": 3288,
-    "timeDay": 478,
+    "uptimeYear": "96.23%",
+    "time": 3290,
+    "timeDay": 432,
     "timeWeek": 1577,
     "timeMonth": 1522,
     "timeYear": 3301,
     "dailyMinutesDown": {
-      "2023-05-10": 59,
+      "2023-05-10": 60,
       "2023-05-09": 16,
       "2023-05-08": 26,
       "2023-05-07": 67,
@@ -165,7 +165,7 @@
       "2022-12-10": 54,
       "2022-12-09": 152,
       "2022-12-08": 71,
-      "2022-12-07": 139
+      "2022-12-07": 25
     }
   },
   {
@@ -173,19 +173,19 @@
     "url": "https://morty.linerly.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/morty.linerly.repl.co.ico",
     "slug": "morty-proxy",
-    "status": "up",
-    "uptime": "96.49%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.30%",
+    "status": "down",
+    "uptime": "96.50%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "96.22%",
+    "uptimeYear": "96.23%",
     "time": 2380,
-    "timeDay": 394,
+    "timeDay": 360,
     "timeWeek": 497,
     "timeMonth": 713,
     "timeYear": 2449,
     "dailyMinutesDown": {
-      "2023-05-10": 32,
+      "2023-05-10": 33,
       "2023-05-09": 16,
       "2023-05-08": 23,
       "2023-04-07": 311,
@@ -273,7 +273,7 @@
       "2022-07-01": 22,
       "2022-06-22": 28,
       "2022-06-19": 16,
-      "2022-06-17": 86
+      "2022-06-17": 33
     }
   },
   {
