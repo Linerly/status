@@ -76,16 +76,16 @@
     "url": "https://searxng.linerly.repl.co",
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "97.33%",
-    "uptimeDay": "94.72%",
+    "status": "down",
+    "uptime": "97.34%",
+    "uptimeDay": "94.68%",
     "uptimeWeek": "97.65%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "96.23%",
-    "time": 3290,
+    "time": 3283,
     "timeDay": 428,
     "timeWeek": 1518,
-    "timeMonth": 1506,
+    "timeMonth": 1523,
     "timeYear": 3299,
     "dailyMinutesDown": {
       "2023-05-10": 76,
@@ -164,8 +164,7 @@
       "2022-12-11": 97,
       "2022-12-10": 54,
       "2022-12-09": 152,
-      "2022-12-08": 71,
-      "2022-12-07": 25
+      "2022-12-08": 71
     }
   },
   {
