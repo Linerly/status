@@ -5,15 +5,15 @@
     "icon": "https://linerly.codeberg.page/assets/icon-optimized.svg",
     "slug": "website",
     "status": "up",
-    "uptime": "97.77%",
+    "uptime": "97.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.61%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "96.08%",
     "time": 1836,
     "timeDay": 659,
     "timeWeek": 1602,
-    "timeMonth": 2892,
+    "timeMonth": 2414,
     "timeYear": 2363,
     "dailyMinutesDown": {
       "2023-05-18": 17,
@@ -77,18 +77,19 @@
     "url": "https://searxng.linerly.repl.co",
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "97.39%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.40%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "98.67%",
-    "uptimeYear": "96.23%",
+    "uptimeYear": "96.24%",
     "time": 3269,
     "timeDay": 515,
     "timeWeek": 2345,
     "timeMonth": 2078,
-    "timeYear": 3358,
+    "timeYear": 3360,
     "dailyMinutesDown": {
+      "2023-05-23": 0,
       "2023-05-18": 65,
       "2023-05-17": 32,
       "2023-05-13": 33,
@@ -167,7 +168,7 @@
       "2022-12-12": 17,
       "2022-12-11": 97,
       "2022-12-10": 54,
-      "2022-12-09": 123
+      "2022-12-09": 62
     }
   },
   {
@@ -175,10 +176,10 @@
     "url": "https://morty.linerly.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/morty.linerly.repl.co.ico",
     "slug": "morty-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "96.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.06%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "96.22%",
     "time": 2337,
@@ -187,6 +188,7 @@
     "timeMonth": 879,
     "timeYear": 2435,
     "dailyMinutesDown": {
+      "2023-05-23": 0,
       "2023-05-18": 95,
       "2023-05-13": 20,
       "2023-05-10": 49,
@@ -273,8 +275,7 @@
       "2022-07-19": 41,
       "2022-07-16": 121,
       "2022-07-15": 274,
-      "2022-07-05": 24,
-      "2022-07-01": 22
+      "2022-07-05": 24
     }
   },
   {
@@ -283,7 +284,7 @@
     "icon": "https://linerly.tk/assets/linerlybot/linerlybot.png",
     "slug": "linerly-bot-discord",
     "status": "down",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
