@@ -86,7 +86,7 @@
     "time": 3281,
     "timeDay": 844,
     "timeWeek": 1759,
-    "timeMonth": 1996,
+    "timeMonth": 2020,
     "timeYear": 3356,
     "dailyMinutesDown": {
       "2023-05-31": 18,
@@ -176,12 +176,12 @@
     "url": "https://morty.linerly.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/morty.linerly.repl.co.ico",
     "slug": "morty-proxy",
-    "status": "up",
-    "uptime": "96.68%",
-    "uptimeDay": "83.34%",
+    "status": "down",
+    "uptime": "96.70%",
+    "uptimeDay": "83.32%",
     "uptimeWeek": "97.62%",
     "uptimeMonth": "98.95%",
-    "uptimeYear": "96.23%",
+    "uptimeYear": "96.25%",
     "time": 2407,
     "timeDay": 11406,
     "timeWeek": 6253,
@@ -273,8 +273,7 @@
       "2022-07-30": 45,
       "2022-07-22": 106,
       "2022-07-20": 25,
-      "2022-07-19": 41,
-      "2022-07-16": 121
+      "2022-07-19": 41
     }
   },
   {
