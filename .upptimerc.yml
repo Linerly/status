@@ -5,11 +5,7 @@ sites:
   - name: Website
     url: https://linerly.codeberg.page
     icon: https://linerly.codeberg.page/assets/icon-optimized.svg
-  - name: SearXNG
-    url: https://searxng.linerly.repl.co
-    icon: https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg
-  - name: MortyProxy
-    url: https://morty.linerly.repl.co
+
   - name: LinerlyBot (Discord)
     url: https://linerlybot-discord.linerly.repl.co
     icon: https://linerly.tk/assets/linerlybot/linerlybot.png
