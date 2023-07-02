@@ -4,18 +4,19 @@
     "url": "https://linerly.codeberg.page",
     "icon": "https://linerly.codeberg.page/assets/icon-optimized.svg",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "96.03%",
-    "time": 2378,
-    "timeDay": 7098,
-    "timeWeek": 2768,
-    "timeMonth": 4410,
-    "timeYear": 2824,
+    "uptimeYear": "96.04%",
+    "time": 2392,
+    "timeDay": 8004,
+    "timeWeek": 3563,
+    "timeMonth": 4481,
+    "timeYear": 2837,
     "dailyMinutesDown": {
+      "2023-07-02": 0,
       "2023-06-22": 16,
       "2023-06-19": 340,
       "2023-06-06": 18,
@@ -70,8 +71,7 @@
       "2023-01-05": 128,
       "2023-01-04": 91,
       "2023-01-03": 196,
-      "2022-11-25": 21,
-      "2022-11-19": 35
+      "2022-11-25": 21
     }
   },
   {
