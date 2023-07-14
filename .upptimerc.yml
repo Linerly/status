@@ -8,10 +8,7 @@ sites:
 
   - name: LinerlyBot (Discord)
     url: https://linerlybot-discord.linerly.repl.co
-    icon: https://linerly.tk/assets/linerlybot/linerlybot.png
-
-
-
+    icon: https://linerly.codeberg.page/assets/linerlybot/linerlybot.png
 
 status-website:
   baseUrl: /status
