@@ -153,18 +153,18 @@
     "icon": "https://cloud.linerly.xyz/core/img/favicon.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "14.84%",
-    "uptimeDay": "14.84%",
-    "uptimeWeek": "14.84%",
-    "uptimeMonth": "14.84%",
-    "uptimeYear": "14.84%",
+    "uptime": "7.23%",
+    "uptimeDay": "7.23%",
+    "uptimeWeek": "7.23%",
+    "uptimeMonth": "7.23%",
+    "uptimeYear": "7.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 0
+      "2023-07-31": 1
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://static.zgo.at/favicon/apple-touch-icon.png",
     "slug": "goat-counter",
     "status": "down",
-    "uptime": "8.61%",
-    "uptimeDay": "8.61%",
-    "uptimeWeek": "8.61%",
-    "uptimeMonth": "8.61%",
-    "uptimeYear": "8.61%",
+    "uptime": "5.92%",
+    "uptimeDay": "5.92%",
+    "uptimeWeek": "5.92%",
+    "uptimeMonth": "5.92%",
+    "uptimeYear": "5.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 0
+      "2023-07-31": 1
     }
   }
 ]
