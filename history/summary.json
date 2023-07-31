@@ -6,17 +6,17 @@
     "slug": "website",
     "status": "up",
     "uptime": "97.95%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "98.21%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "98.23%",
     "uptimeYear": "95.99%",
-    "time": 2711,
-    "timeDay": 6180,
-    "timeWeek": 6761,
-    "timeMonth": 5125,
-    "timeYear": 3288,
+    "time": 2712,
+    "timeDay": 5720,
+    "timeWeek": 6671,
+    "timeMonth": 5084,
+    "timeYear": 3285,
     "dailyMinutesDown": {
-      "2023-07-31": 23,
+      "2023-07-31": 16,
       "2023-07-30": 20,
       "2023-07-29": 226,
       "2023-07-27": 114,
@@ -74,7 +74,7 @@
       "2023-01-09": 64,
       "2023-01-08": 116,
       "2023-01-07": 530,
-      "2023-01-06": 144
+      "2023-01-06": 172
     }
   },
   {
@@ -89,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.27%",
     "time": 5354,
-    "timeDay": 358,
-    "timeWeek": 276,
-    "timeMonth": 278,
-    "timeYear": 5451,
+    "timeDay": 344,
+    "timeWeek": 281,
+    "timeMonth": 279,
+    "timeYear": 5447,
     "dailyMinutesDown": {
       "2023-03-28": 231,
       "2023-03-27": 1440,
@@ -145,6 +145,46 @@
       "2023-01-13": 153,
       "2023-01-12": 34,
       "2023-01-11": 110
+    }
+  },
+  {
+    "name": "Nextcloud",
+    "url": "https://cloud.linerly.xyz",
+    "icon": "https://cloud.linerly.xyz/core/img/favicon.ico",
+    "slug": "nextcloud",
+    "status": "down",
+    "uptime": "14.84%",
+    "uptimeDay": "14.84%",
+    "uptimeWeek": "14.84%",
+    "uptimeMonth": "14.84%",
+    "uptimeYear": "14.84%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
+  },
+  {
+    "name": "GoatCounter",
+    "url": "https://stats.linerly.xyz",
+    "icon": "https://static.zgo.at/favicon/apple-touch-icon.png",
+    "slug": "goat-counter",
+    "status": "down",
+    "uptime": "8.61%",
+    "uptimeDay": "8.61%",
+    "uptimeWeek": "8.61%",
+    "uptimeMonth": "8.61%",
+    "uptimeYear": "8.61%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-31": 0
     }
   }
 ]
