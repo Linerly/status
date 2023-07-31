@@ -152,19 +152,19 @@
     "url": "https://cloud.linerly.xyz",
     "icon": "https://cloud.linerly.xyz/core/img/favicon.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "7.23%",
-    "uptimeDay": "7.23%",
-    "uptimeWeek": "7.23%",
-    "uptimeMonth": "7.23%",
-    "uptimeYear": "7.23%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.42%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.42%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "0.42%",
+    "time": 7051,
+    "timeDay": 7051,
+    "timeWeek": 7051,
+    "timeMonth": 7051,
+    "timeYear": 7051,
     "dailyMinutesDown": {
-      "2023-07-31": 1
+      "2023-07-31": 107
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://static.zgo.at/favicon/apple-touch-icon.png",
     "slug": "goat-counter",
     "status": "down",
-    "uptime": "5.92%",
-    "uptimeDay": "5.92%",
-    "uptimeWeek": "5.92%",
-    "uptimeMonth": "5.92%",
-    "uptimeYear": "5.92%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 1
+      "2023-07-31": 108
     }
   }
 ]
