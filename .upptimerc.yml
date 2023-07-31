@@ -3,15 +3,16 @@ repo: status
 
 sites:
   - name: Website
-    url: https://linerly.codeberg.page
-    icon: https://linerly.codeberg.page/assets/icon-optimized.svg
+    url: https://linerly.xyz
+    icon: https://linerly.xyz/assets/icon-optimized.svg
 
   - name: LinerlyBot (Discord)
     url: https://linerlybot-discord.linerly.repl.co
-    icon: https://linerly.codeberg.page/assets/linerlybot/linerlybot.png
+    icon: https://linerly.xyz/assets/linerlybot/linerlybot.png
 
 status-website:
-  baseUrl: /status
+  baseUrl: /
+  cname: status.linerly.xyz
   name: "Linerly's Service Status"
   introTitle: "See all the status of Linerly's services"
   introMessage: "Powered by Upptime on GitHub"
@@ -19,11 +20,11 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://linerly.codeberg.page
+      href: https://linerly.xyz
     - title: Blog
-      href: https://linerly.codeberg.page/en/blog
-  logoUrl: https://linerly.codeberg.page/assets/icon-optimized.svg
-  faviconSvg: https://linerly.codeberg.page/assets/icon-optimized.svg
+      href: https://linerly.xyz/en/blog
+  logoUrl: https://linerly.xy/assets/icon-optimized.svg
+  faviconSvg: https://linerly.xyz/assets/icon-optimized.svg
   theme: ocean
   metaTags:
     - name: "theme-color"
