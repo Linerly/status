@@ -10,6 +10,14 @@ sites:
     url: https://linerlybot-discord.linerly.repl.co
     icon: https://linerly.xyz/assets/linerlybot/linerlybot.png
 
+  - name: Nextcloud
+    url: https://cloud.linerly.xyz
+    icon: https://cloud.linerly.xyz/core/img/favicon.ico
+
+  - name: GoatCounter
+    url: https://stats.linerly.xyz
+    icon: https://static.zgo.at/favicon/apple-touch-icon.png
+
 status-website:
   baseUrl: /
   cname: status.linerly.xyz
