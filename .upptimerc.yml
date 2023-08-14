@@ -6,10 +6,6 @@ sites:
     url: https://linerly.xyz
     icon: https://linerly.xyz/assets/icon-optimized.svg
 
-  - name: LinerlyBot (Discord)
-    url: https://linerlybot-discord.linerly.repl.co
-    icon: https://linerly.xyz/assets/linerlybot/linerlybot.png
-
   - name: Nextcloud
     url: https://cloud.linerly.xyz
     icon: https://cloud.linerly.xyz/core/img/favicon.ico
