@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "96.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "96.00%",
     "time": 3021,
-    "timeDay": 4518,
-    "timeWeek": 4165,
-    "timeMonth": 5925,
+    "timeDay": 4546,
+    "timeWeek": 4174,
+    "timeMonth": 5924,
     "timeYear": 3645,
     "dailyMinutesDown": {
-      "2023-08-20": 6,
       "2023-08-11": 35,
       "2023-08-07": 53,
       "2023-08-06": 17,
@@ -80,7 +79,7 @@
       "2023-01-12": 130,
       "2023-01-11": 259,
       "2023-01-10": 67,
-      "2023-01-09": 17
+      "2023-01-09": 49
     }
   },
   {
@@ -88,17 +87,17 @@
     "url": "https://cloud.linerly.xyz",
     "icon": "https://cloud.linerly.xyz/core/img/favicon.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "55.77%",
-    "uptimeDay": "26.48%",
-    "uptimeWeek": "26.42%",
-    "uptimeMonth": "55.77%",
-    "uptimeYear": "55.77%",
-    "time": 7001,
-    "timeDay": 5071,
-    "timeWeek": 6006,
-    "timeMonth": 7001,
-    "timeYear": 7001,
+    "status": "down",
+    "uptime": "56.01%",
+    "uptimeDay": "28.34%",
+    "uptimeWeek": "26.46%",
+    "uptimeMonth": "56.01%",
+    "uptimeYear": "56.01%",
+    "time": 6987,
+    "timeDay": 4949,
+    "timeWeek": 5957,
+    "timeMonth": 6987,
+    "timeYear": 6987,
     "dailyMinutesDown": {
       "2023-08-20": 991,
       "2023-08-19": 1210,
@@ -111,7 +110,7 @@
       "2023-08-12": 1292,
       "2023-08-11": 1299,
       "2023-08-10": 1078,
-      "2023-08-09": 737
+      "2023-08-09": 681
     }
   },
   {
@@ -125,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.35%",
-    "time": 666,
-    "timeDay": 511,
-    "timeWeek": 681,
-    "timeMonth": 666,
-    "timeYear": 666,
+    "time": 665,
+    "timeDay": 659,
+    "timeWeek": 687,
+    "timeMonth": 665,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2023-07-31": 189
     }
