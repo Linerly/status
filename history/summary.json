@@ -96,12 +96,12 @@
     "url": "https://cloud.linerly.xyz",
     "icon": "https://cloud.linerly.xyz/core/img/favicon.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "73.69%",
-    "uptimeDay": "6.95%",
-    "uptimeWeek": "4.96%",
-    "uptimeMonth": "29.05%",
-    "uptimeYear": "73.69%",
+    "status": "down",
+    "uptime": "73.81%",
+    "uptimeDay": "7.41%",
+    "uptimeWeek": "5.02%",
+    "uptimeMonth": "29.39%",
+    "uptimeYear": "73.81%",
     "time": 8178,
     "timeDay": 8329,
     "timeWeek": 8174,
@@ -130,7 +130,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1257
+      "2023-09-29": 1109
     }
   },
   {
