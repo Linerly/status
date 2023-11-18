@@ -4,18 +4,19 @@
     "url": "https://linerly.xyz",
     "icon": "https://linerly.xyz/assets/icon-optimized.svg",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "95.98%",
-    "time": 3611,
+    "uptimeYear": "96.00%",
+    "time": 3614,
     "timeDay": 605,
     "timeWeek": 899,
     "timeMonth": 1968,
     "timeYear": 3891,
     "dailyMinutesDown": {
+      "2023-11-18": 0,
       "2023-11-12": 81,
       "2023-11-10": 59,
       "2023-10-15": 21,
@@ -88,8 +89,7 @@
       "2023-01-18": 457,
       "2023-01-17": 329,
       "2023-01-16": 505,
-      "2023-01-15": 212,
-      "2023-01-14": 63
+      "2023-01-15": 212
     }
   },
   {
@@ -97,12 +97,12 @@
     "url": "https://cloud.linerly.xyz",
     "icon": "https://cloud.linerly.xyz/core/img/favicon.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "80.79%",
-    "uptimeDay": "81.87%",
-    "uptimeWeek": "38.13%",
-    "uptimeMonth": "30.54%",
-    "uptimeYear": "80.79%",
+    "status": "down",
+    "uptime": "80.83%",
+    "uptimeDay": "81.85%",
+    "uptimeWeek": "38.37%",
+    "uptimeMonth": "30.65%",
+    "uptimeYear": "80.83%",
     "time": 7903,
     "timeDay": 3040,
     "timeWeek": 4107,
@@ -137,7 +137,7 @@
       "2023-10-24": 1351,
       "2023-10-23": 1440,
       "2023-10-22": 1367,
-      "2023-10-21": 1034
+      "2023-10-21": 984
     }
   },
   {
@@ -145,9 +145,9 @@
     "url": "https://stats.linerly.xyz",
     "icon": "https://static.zgo.at/favicon/apple-touch-icon.png",
     "slug": "goat-counter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -157,6 +157,7 @@
     "timeMonth": 639,
     "timeYear": 793,
     "dailyMinutesDown": {
+      "2023-11-18": 0,
       "2023-09-03": 68,
       "2023-08-31": 24,
       "2023-07-31": 189
