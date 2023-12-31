@@ -1,7 +1,7 @@
 url: https://cloud.linerly.xyz
-status: up
-code: 200
-responseTime: 1382
-lastUpdated: 2023-12-31T14:19:13.298Z
+status: down
+code: 502
+responseTime: 1135
+lastUpdated: 2023-12-31T15:24:17.841Z
 startTime: 2023-07-31T15:06:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
