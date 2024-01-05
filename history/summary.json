@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "94.65%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "95.88%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "95.87%",
     "time": 3588,
     "timeDay": 2503,
     "timeWeek": 1324,
     "timeMonth": 2452,
     "timeYear": 3930,
     "dailyMinutesDown": {
-      "2024-01-05": 6,
       "2024-01-04": 71,
       "2024-01-02": 20,
       "2023-12-29": 28,
@@ -103,7 +102,7 @@
       "2023-01-23": 20,
       "2023-01-22": 18,
       "2023-01-20": 148,
-      "2023-01-18": 65
+      "2023-01-18": 85
     }
   },
   {
@@ -111,17 +110,17 @@
     "url": "https://cloud.linerly.xyz",
     "icon": "https://cloud.linerly.xyz/core/img/favicon.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "82.59%",
-    "uptimeDay": "97.07%",
+    "status": "down",
+    "uptime": "82.66%",
+    "uptimeDay": "97.05%",
     "uptimeWeek": "77.00%",
     "uptimeMonth": "74.64%",
-    "uptimeYear": "82.59%",
-    "time": 6923,
-    "timeDay": 1195,
-    "timeWeek": 1509,
-    "timeMonth": 1129,
-    "timeYear": 6923,
+    "uptimeYear": "82.66%",
+    "time": 6917,
+    "timeDay": 905,
+    "timeWeek": 1458,
+    "timeMonth": 1120,
+    "timeYear": 6917,
     "dailyMinutesDown": {
       "2024-01-05": 42,
       "2024-01-04": 43,
@@ -177,7 +176,7 @@
       "2023-10-29": 1299,
       "2023-10-28": 1316,
       "2023-10-27": 1330,
-      "2023-10-26": 260
+      "2023-10-26": 107
     }
   },
   {
@@ -189,7 +188,7 @@
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
-    "uptimeMonth": "98.50%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.59%",
     "time": 685,
     "timeDay": 564,
