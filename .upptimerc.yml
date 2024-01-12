@@ -6,9 +6,9 @@ sites:
     url: https://linerly.xyz
     icon: https://linerly.xyz/assets/icon-optimized.svg
 
-  - name: Nextcloud
-    url: https://cloud.linerly.xyz
-    icon: https://cloud.linerly.xyz/core/img/favicon.ico
+  - name: Immich
+    url: https://media.linerly.xyz
+    icon: https://media.linerly.xyz/favicon.png
 
   - name: GoatCounter
     url: https://stats.linerly.xyz
