@@ -1,9 +1,6 @@
 owner: Linerly
 repo: status
 
-status-website:
-  themeUrl: https://status.linerly.xyz/theme.css
-
 sites:
   - name: Website
     url: https://linerly.xyz
@@ -32,6 +29,7 @@ status-website:
       href: https://linerly.xyz/en/blog
   logoUrl: https://linerly.xyz/assets/icon-optimized.svg
   faviconSvg: https://linerly.xyz/assets/icon-optimized.svg
+  themeUrl: https://status.linerly.xyz/theme.css
   metaTags:
     - name: "theme-color"
       content: "#1e90ff"
