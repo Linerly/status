@@ -17,7 +17,7 @@ sites:
 status-website:
   baseUrl: /
   cname: status.linerly.xyz
-  name: "Linerly's Service Status"
+  name: "Service Status - Linerly"
   introTitle: "See all the status of Linerly's services"
   introMessage: "Powered by Upptime on GitHub"
   navbar:
