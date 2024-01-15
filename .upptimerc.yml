@@ -27,7 +27,7 @@ status-website:
       href: https://linerly.xyz
     - title: Blog
       href: https://linerly.xyz/en/blog
-  logoUrl: https://linerly.xy/assets/icon-optimized.svg
+  logoUrl: https://linerly.xyz/assets/icon-optimized.svg
   faviconSvg: https://linerly.xyz/assets/icon-optimized.svg
   theme: ocean
   metaTags:
