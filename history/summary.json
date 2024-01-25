@@ -10,11 +10,11 @@
     "uptimeWeek": "96.75%",
     "uptimeMonth": "94.73%",
     "uptimeYear": "95.54%",
-    "time": 3862,
-    "timeDay": 367,
-    "timeWeek": 2797,
-    "timeMonth": 2490,
-    "timeYear": 3650,
+    "time": 3856,
+    "timeDay": 439,
+    "timeWeek": 2800,
+    "timeMonth": 2400,
+    "timeYear": 3638,
     "dailyMinutesDown": {
       "2024-01-22": 96,
       "2024-01-18": 232,
@@ -104,8 +104,7 @@
       "2023-02-09": 61,
       "2023-02-03": 98,
       "2023-01-31": 22,
-      "2023-01-30": 22,
-      "2023-01-25": 32
+      "2023-01-30": 22
     }
   },
   {
@@ -115,17 +114,18 @@
     "slug": "immich",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "59.56%",
-    "uptimeWeek": "78.65%",
-    "uptimeMonth": "87.35%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "64.56%",
+    "uptimeMonth": "80.53%",
     "uptimeYear": "0.00%",
-    "time": 3630,
-    "timeDay": 72,
-    "timeWeek": 827,
-    "timeMonth": 905,
-    "timeYear": 3127,
+    "time": 3613,
+    "timeDay": 75,
+    "timeWeek": 712,
+    "timeMonth": 880,
+    "timeYear": 2725,
     "dailyMinutesDown": {
-      "2024-01-24": 83,
+      "2024-01-25": 83,
+      "2024-01-24": 1440,
       "2024-01-23": 499,
       "2024-01-21": 209,
       "2024-01-19": 1097,
@@ -146,8 +146,7 @@
       "2023-01-29": 1098,
       "2023-01-28": 1324,
       "2023-01-27": 1035,
-      "2023-01-26": 860,
-      "2023-01-25": 852
+      "2023-01-26": 860
     }
   },
   {
@@ -161,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.63%",
-    "time": 662,
-    "timeDay": 397,
-    "timeWeek": 435,
-    "timeMonth": 465,
-    "timeYear": 662,
+    "time": 661,
+    "timeDay": 453,
+    "timeWeek": 443,
+    "timeMonth": 464,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2024-01-03": 43,
       "2023-12-09": 471,
