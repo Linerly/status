@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.58%",
     "uptimeYear": "95.53%",
-    "time": 3838,
-    "timeDay": 4523,
-    "timeWeek": 3172,
-    "timeMonth": 2806,
-    "timeYear": 3664,
+    "time": 3834,
+    "timeDay": 4496,
+    "timeWeek": 3171,
+    "timeMonth": 2804,
+    "timeYear": 3663,
     "dailyMinutesDown": {
       "2024-01-31": 58,
       "2024-01-30": 106,
@@ -104,8 +104,7 @@
       "2023-02-14": 18,
       "2023-02-12": 19,
       "2023-02-11": 20,
-      "2023-02-10": 29,
-      "2023-02-09": 61
+      "2023-02-10": 29
     }
   },
   {
@@ -114,14 +113,14 @@
     "icon": "https://media.linerly.xyz/favicon.png",
     "slug": "immich",
     "status": "up",
-    "uptime": "7.30%",
+    "uptime": "7.58%",
     "uptimeDay": "98.15%",
     "uptimeWeek": "79.68%",
-    "uptimeMonth": "69.14%",
-    "uptimeYear": "63.15%",
-    "time": 2257,
-    "timeDay": 1744,
-    "timeWeek": 810,
+    "uptimeMonth": "69.23%",
+    "uptimeYear": "63.58%",
+    "time": 2250,
+    "timeDay": 1696,
+    "timeWeek": 802,
     "timeMonth": 810,
     "timeYear": 810,
     "dailyMinutesDown": {
@@ -146,8 +145,7 @@
       "2024-01-19": 1097,
       "2024-01-18": 244,
       "2024-01-17": 19,
-      "2023-02-10": 897,
-      "2023-02-09": 1440
+      "2023-02-10": 897
     }
   },
   {
@@ -161,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 649,
-    "timeDay": 437,
+    "time": 648,
+    "timeDay": 383,
     "timeWeek": 484,
-    "timeMonth": 464,
-    "timeYear": 649,
+    "timeMonth": 463,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2024-01-03": 43,
       "2023-12-09": 471,
