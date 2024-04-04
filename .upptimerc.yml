@@ -3,15 +3,16 @@ repo: status
 
 sites:
   - name: Website
-    url: https://linerly.xyz
+    url: https://linerly.xyz/en/
     icon: https://linerly.xyz/assets/icon-optimized.svg
 
   - name: Immich
-    url: https://media.linerly.xyz
+    url: https://media.linerly.xyz/
     icon: https://media.linerly.xyz/favicon.png
+    __dangerous__body_down: "Argo Tunnel error"
 
-  - name: GoatCounter
-    url: https://stats.linerly.xyz
+  - name: Statistics
+    url: https://stats.linerly.xyz/
     icon: https://static.zgo.at/favicon/apple-touch-icon.png
 
 status-website:
