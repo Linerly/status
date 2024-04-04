@@ -16,7 +16,6 @@ sites:
     icon: https://static.zgo.at/favicon/apple-touch-icon.png
 
 status-website:
-  baseUrl: /
   cname: status.linerly.xyz
   name: "Service Status - Linerly"
   introTitle: "See all the status of Linerly's services"
@@ -29,6 +28,7 @@ status-website:
     - title: Blog
       href: https://linerly.xyz/en/blog
   logoUrl: https://linerly.xyz/assets/icon-optimized.svg
+  favicon: https://linerly.xyz/favicon.ico
   faviconSvg: https://linerly.xyz/assets/icon-optimized.svg
   themeUrl: https://status.linerly.xyz/theme.css
   metaTags:
