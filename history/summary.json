@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "95.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "95.30%",
     "uptimeYear": "98.17%",
     "time": 3453,
     "timeDay": 3893,
     "timeWeek": 3378,
     "timeMonth": 2988,
-    "timeYear": 3557,
+    "timeYear": 3547,
     "dailyMinutesDown": {
-      "2024-04-23": 6,
       "2024-04-21": 43,
       "2024-04-20": 40,
       "2024-04-19": 19,
@@ -100,7 +99,8 @@
       "2023-07-26": 49,
       "2023-07-18": 106,
       "2023-07-15": 115,
-      "2023-07-02": 128
+      "2023-07-02": 128,
+      "2023-06-22": 16
     }
   },
   {
@@ -109,11 +109,11 @@
     "icon": "https://media.linerly.xyz/favicon.png",
     "slug": "immich",
     "status": "up",
-    "uptime": "40.78%",
+    "uptime": "41.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "78.07%",
-    "uptimeMonth": "89.92%",
-    "uptimeYear": "55.03%",
+    "uptimeMonth": "91.63%",
+    "uptimeYear": "55.26%",
     "time": 1570,
     "timeDay": 981,
     "timeWeek": 783,
@@ -209,17 +209,19 @@
     "url": "https://stats.linerly.xyz",
     "icon": "https://static.zgo.at/favicon/apple-touch-icon.png",
     "slug": "statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 393,
-    "timeWeek": 499,
-    "timeMonth": 503,
-    "timeYear": 503,
-    "dailyMinutesDown": {}
+    "time": 507,
+    "timeDay": 494,
+    "timeWeek": 511,
+    "timeMonth": 507,
+    "timeYear": 507,
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   }
 ]
