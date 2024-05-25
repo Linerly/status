@@ -110,11 +110,11 @@
     "icon": "https://media.linerly.xyz/favicon.png",
     "slug": "immich",
     "status": "up",
-    "uptime": "64.57%",
+    "uptime": "64.58%",
     "uptimeDay": "97.42%",
-    "uptimeWeek": "54.79%",
-    "uptimeMonth": "75.94%",
-    "uptimeYear": "64.57%",
+    "uptimeWeek": "55.16%",
+    "uptimeMonth": "76.02%",
+    "uptimeYear": "64.58%",
     "time": 1238,
     "timeDay": 862,
     "timeWeek": 674,
@@ -222,17 +222,19 @@
     "url": "https://stats.linerly.xyz",
     "icon": "https://static.zgo.at/favicon/apple-touch-icon.png",
     "slug": "statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 393,
-    "timeWeek": 480,
-    "timeMonth": 482,
-    "timeYear": 492,
-    "dailyMinutesDown": {}
+    "time": 494,
+    "timeDay": 496,
+    "timeWeek": 495,
+    "timeMonth": 486,
+    "timeYear": 494,
+    "dailyMinutesDown": {
+      "2024-05-25": 0
+    }
   }
 ]
