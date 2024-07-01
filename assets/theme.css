@@ -55,7 +55,7 @@
   --nav-background-color: #004a99;
   --nav-border-bottom-color: transparent;
   --nav-current-border-bottom-color: transparent;
-  --card-border-color: #80c1ff;
+  --card-border-color: #1f7ad6;
   --down-border-left-color: #eb3b5a;
   --down-background-color: #6b1020;
   --degraded-border-left-color: #f7b731;
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6, p, sub, li, a, article, div, span {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: bold;
+  font-weight: bold !important;
 }
 
 figcaption {
@@ -117,4 +117,12 @@ a:hover {
 
 a:active {
   color: #a7ccf1;
+}
+
+nav {
+  scrollbar-width: none;
+}
+
+footer {
+  font-style: italic;
 }
