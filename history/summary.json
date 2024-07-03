@@ -11,9 +11,9 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "98.26%",
     "time": 3686,
-    "timeDay": 1074,
-    "timeWeek": 1907,
-    "timeMonth": 1582,
+    "timeDay": 928,
+    "timeWeek": 1930,
+    "timeMonth": 1585,
     "timeYear": 3701,
     "dailyMinutesDown": {
       "2024-06-20": 142,
@@ -114,17 +114,17 @@
     "slug": "immich",
     "status": "up",
     "uptime": "88.39%",
-    "uptimeDay": "4.41%",
-    "uptimeWeek": "0.94%",
-    "uptimeMonth": "67.09%",
+    "uptimeDay": "20.12%",
+    "uptimeWeek": "3.19%",
+    "uptimeMonth": "67.12%",
     "uptimeYear": "88.39%",
-    "time": 1386,
-    "timeDay": 681,
-    "timeWeek": 275,
-    "timeMonth": 1670,
-    "timeYear": 1008,
+    "time": 1385,
+    "timeDay": 985,
+    "timeWeek": 373,
+    "timeMonth": 1673,
+    "timeYear": 1009,
     "dailyMinutesDown": {
-      "2024-07-02": 1233,
+      "2024-07-02": 1219,
       "2024-07-01": 1409,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
@@ -185,7 +185,7 @@
       "2024-04-06": 19,
       "2024-04-05": 111,
       "2024-04-04": 676,
-      "2024-04-02": 81
+      "2024-04-02": 107
     }
   },
   {
@@ -199,11 +199,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 483,
-    "timeDay": 594,
-    "timeWeek": 506,
-    "timeMonth": 463,
-    "timeYear": 483,
+    "time": 484,
+    "timeDay": 618,
+    "timeWeek": 534,
+    "timeMonth": 470,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2024-05-25": 228
     }
