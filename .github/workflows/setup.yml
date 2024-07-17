@@ -19,7 +19,7 @@ on:
   push:
     paths:
       - ".upptimerc.yml"
-      - "/assets"
+      - "assets/theme.css"
   repository_dispatch:
     types: [setup]
   workflow_dispatch:
