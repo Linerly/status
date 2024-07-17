@@ -71,7 +71,7 @@
   --submit-button-border-color: #1a46ad;
   --submit-button-background-color: #3867d6;
   --submit-button-color: #ffffff;
-  --graph-opacity: 1;
+  --graph-opacity: 0;
   --graph-filter: none;
 }
 
@@ -93,13 +93,18 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold !important;
 }
 
-figcaption {
-  text-align: center;
-  color: var(--body-text-color)81;
+p {
+  font-size: 16pt !important;
 }
 
-hr {
-  border: 5px solid var(--nav-border-bottom-color);
+article, dl {
+  font-size: 14pt;
+}
+
+canvas {
+  background-color: #add4ff;
+  padding: 1em;
+  border-radius: 1em;
   box-shadow: 0 5px 10px #00000015;
 }
 
