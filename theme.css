@@ -51,11 +51,11 @@
 :root {
   --body-background-color: #004a99;
   --body-text-color: #cce6ff;
-  --card-background-color: #80c1ff40;
+  --card-background-color: #10579e;
   --nav-background-color: #004a99;
   --nav-border-bottom-color: transparent;
   --nav-current-border-bottom-color: transparent;
-  --card-border-color: #1f7ad6;
+  --card-border-color: transparent;
   --down-border-left-color: #eb3b5a;
   --down-background-color: #6b1020;
   --degraded-border-left-color: #f7b731;
@@ -100,6 +100,10 @@ figcaption {
 
 hr {
   border: 5px solid var(--nav-border-bottom-color);
+  box-shadow: 0 5px 10px #00000015;
+}
+
+article {
   box-shadow: 0 5px 10px #00000015;
 }
 
