@@ -108,16 +108,6 @@ canvas {
   box-shadow: 0 5px 10px #00000015;
 }
 
-figcaption {
-  text-align: center;
-  color: var(--body-text-color)81;
-}
-
-hr {
-  border: 5px solid var(--nav-border-bottom-color);
-  box-shadow: 0 5px 10px #00000015;
-}
-
 article {
   box-shadow: 0 5px 10px #00000015;
 }
