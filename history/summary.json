@@ -14,7 +14,7 @@
     "timeDay": 3203,
     "timeWeek": 1546,
     "timeMonth": 1862,
-    "timeYear": 2809,
+    "timeYear": 2813,
     "dailyMinutesDown": {
       "2024-12-01": 23,
       "2024-11-30": 142,
@@ -109,7 +109,7 @@
     "slug": "immich",
     "status": "up",
     "uptime": "87.80%",
-    "uptimeDay": "63.11%",
+    "uptimeDay": "73.33%",
     "uptimeWeek": "45.85%",
     "uptimeMonth": "40.08%",
     "uptimeYear": "87.80%",
