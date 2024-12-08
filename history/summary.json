@@ -107,18 +107,19 @@
     "url": "https://media.linerly.xyz",
     "icon": "https://media.linerly.xyz/favicon.png",
     "slug": "immich",
-    "status": "up",
-    "uptime": "87.72%",
-    "uptimeDay": "91.40%",
-    "uptimeWeek": "75.20%",
-    "uptimeMonth": "41.98%",
-    "uptimeYear": "87.72%",
-    "time": 1109,
-    "timeDay": 531,
-    "timeWeek": 1073,
-    "timeMonth": 862,
+    "status": "down",
+    "uptime": "87.73%",
+    "uptimeDay": "91.38%",
+    "uptimeWeek": "77.50%",
+    "uptimeMonth": "42.50%",
+    "uptimeYear": "87.73%",
+    "time": 1108,
+    "timeDay": 415,
+    "timeWeek": 1036,
+    "timeMonth": 855,
     "timeYear": 1013,
     "dailyMinutesDown": {
+      "2024-12-08": 0,
       "2024-12-07": 124,
       "2024-12-06": 62,
       "2024-12-05": 676,
@@ -192,7 +193,7 @@
       "2024-08-16": 1389,
       "2024-08-15": 1424,
       "2024-08-14": 1310,
-      "2024-08-13": 162
+      "2024-08-13": 140
     }
   },
   {
