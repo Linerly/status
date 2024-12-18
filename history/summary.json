@@ -4,17 +4,17 @@
     "url": "https://linerly.xyz/en",
     "icon": "https://linerly.xyz/assets/icon-optimized.svg",
     "slug": "website",
-    "status": "up",
-    "uptime": "99.58%",
+    "status": "down",
+    "uptime": "99.59%",
     "uptimeDay": "98.72%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "98.54%",
-    "uptimeYear": "98.61%",
-    "time": 2787,
-    "timeDay": 941,
-    "timeWeek": 885,
-    "timeMonth": 2038,
-    "timeYear": 2799,
+    "uptimeYear": "98.62%",
+    "time": 2804,
+    "timeDay": 5364,
+    "timeWeek": 2096,
+    "timeMonth": 2291,
+    "timeYear": 2817,
     "dailyMinutesDown": {
       "2024-12-18": 18,
       "2024-12-17": 47,
@@ -99,7 +99,7 @@
       "2024-03-03": 24,
       "2024-03-01": 238,
       "2024-02-27": 21,
-      "2024-02-24": 120
+      "2024-02-24": 95
     }
   },
   {
