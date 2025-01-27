@@ -16,6 +16,7 @@ sites:
     icon: https://static.zgo.at/favicon/apple-touch-icon.png
 
 status-website:
+  customBodyHtml: "<script src="https://cdn.jsdelivr.net/npm/@iframe-resizer/child@5.3.2" type="text/javascript" async></script>"
   cname: status.linerly.xyz
   name: "Service Status - Linerly"
   logoUrl: https://linerly.xyz/assets/icon-optimized.svg
