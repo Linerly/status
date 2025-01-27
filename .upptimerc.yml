@@ -18,15 +18,6 @@ sites:
 status-website:
   cname: status.linerly.xyz
   name: "Service Status - Linerly"
-  introTitle: "See all the status of Linerly's services"
-  introMessage: "Powered by Upptime on GitHub"
-  navbar:
-    - title: Status
-      href: /
-    - title: Website
-      href: https://linerly.xyz
-    - title: Blog
-      href: https://linerly.xyz/en/blog
   logoUrl: https://linerly.xyz/assets/icon-optimized.svg
   favicon: https://linerly.xyz/favicon.ico
   faviconSvg: https://linerly.xyz/assets/icon-optimized.svg
