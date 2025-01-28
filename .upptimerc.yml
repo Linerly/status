@@ -4,7 +4,7 @@ repo: status
 sites:
   - name: Website
     url: https://linerly.xyz/en
-    icon: https://linerly.xyz/assets/icon-optimized.svg
+    icon: https://linerly.xyz/media/core/icon-optimized.svg
 
   - name: Immich
     url: https://media.linerly.xyz
