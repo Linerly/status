@@ -133,7 +133,7 @@ body::after {
   background: linear-gradient(to top, #004a99, #004a9900);
 }
 
-nav {
+nav, footer {
   display: none;
 }
 
