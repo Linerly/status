@@ -6,11 +6,6 @@ sites:
     url: https://linerly.xyz/en
     icon: https://linerly.xyz/media/core/icon-optimized.svg
 
-  - name: Immich
-    url: https://media.linerly.xyz
-    icon: https://media.linerly.xyz/favicon.png
-    __dangerous__body_down: "Argo Tunnel error"
-
   - name: Statistics
     url: https://stats.linerly.xyz
     icon: https://static.zgo.at/favicon/apple-touch-icon.png
