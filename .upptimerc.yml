@@ -35,7 +35,7 @@ sites:
     icon: https://media.linerly.xyz/apple-icon-180.png
 
   - name: OwnTracks Frontend
-    url: https://track.linerly.xyz
+    url: https://track.linerly.xyz/favicon.ico
     icon: https://track.linerly.xyz/favicon.ico
 
   - name: Home Assistant
