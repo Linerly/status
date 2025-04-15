@@ -4,18 +4,19 @@
     "url": "https://linerly.xyz/en",
     "icon": "https://linerly.xyz/media/core/icon-optimized.svg",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "99.14%",
-    "time": 2614,
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "99.15%",
+    "time": 2617,
     "timeDay": 1248,
     "timeWeek": 918,
     "timeMonth": 1576,
     "timeYear": 2688,
     "dailyMinutesDown": {
+      "2025-04-15": 3,
       "2025-04-14": 12,
       "2025-04-13": 170,
       "2025-04-11": 22,
@@ -84,8 +85,7 @@
       "2024-11-27": 10,
       "2024-11-25": 72,
       "2024-11-21": 7,
-      "2024-11-18": 13,
-      "2024-11-17": 30
+      "2024-11-18": 13
     }
   },
   {
@@ -95,17 +95,17 @@
     "slug": "apkes",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "16.48%",
-    "uptimeWeek": "16.48%",
-    "uptimeMonth": "16.48%",
-    "uptimeYear": "16.48%",
+    "uptimeDay": "2.68%",
+    "uptimeWeek": "2.68%",
+    "uptimeMonth": "2.68%",
+    "uptimeYear": "2.68%",
     "time": 4104,
     "timeDay": 10514,
     "timeWeek": 10514,
     "timeMonth": 10514,
     "timeYear": 10514,
     "dailyMinutesDown": {
-      "2025-04-15": 2
+      "2025-04-15": 17
     }
   },
   {
@@ -114,18 +114,18 @@
     "icon": "https://geora.linerly.xyz/icons/icon.svg",
     "slug": "geora",
     "status": "down",
-    "uptime": "20.52%",
-    "uptimeDay": "20.52%",
-    "uptimeWeek": "20.52%",
-    "uptimeMonth": "20.52%",
-    "uptimeYear": "20.52%",
+    "uptime": "2.89%",
+    "uptimeDay": "2.89%",
+    "uptimeWeek": "2.89%",
+    "uptimeMonth": "2.89%",
+    "uptimeYear": "2.89%",
     "time": 10523,
     "timeDay": 10523,
     "timeWeek": 10523,
     "timeMonth": 10523,
     "timeYear": 10523,
     "dailyMinutesDown": {
-      "2025-04-15": 2
+      "2025-04-15": 17
     }
   },
   {
@@ -134,18 +134,18 @@
     "icon": "https://pegiatan.linerly.xyz/icons/icon.svg",
     "slug": "pegiatan",
     "status": "down",
-    "uptime": "26.86%",
-    "uptimeDay": "26.86%",
-    "uptimeWeek": "26.86%",
-    "uptimeMonth": "26.86%",
-    "uptimeYear": "26.86%",
+    "uptime": "3.03%",
+    "uptimeDay": "3.03%",
+    "uptimeWeek": "3.03%",
+    "uptimeMonth": "3.03%",
+    "uptimeYear": "3.03%",
     "time": 10522,
     "timeDay": 10522,
     "timeWeek": 10522,
     "timeMonth": 10522,
     "timeYear": 10522,
     "dailyMinutesDown": {
-      "2025-04-15": 1
+      "2025-04-15": 16
     }
   },
   {
@@ -153,19 +153,19 @@
     "url": "https://ecotrek.linerly.xyz",
     "icon": "https://ecotrek.linerly.xyz/icons/icons.svg",
     "slug": "eco-trek",
-    "status": "down",
-    "uptime": "38.51%",
-    "uptimeDay": "38.51%",
-    "uptimeWeek": "38.51%",
-    "uptimeMonth": "38.51%",
-    "uptimeYear": "38.51%",
-    "time": 10479,
-    "timeDay": 10479,
-    "timeWeek": 10479,
-    "timeMonth": 10479,
-    "timeYear": 10479,
+    "status": "up",
+    "uptime": "6.72%",
+    "uptimeDay": "6.72%",
+    "uptimeWeek": "6.72%",
+    "uptimeMonth": "6.72%",
+    "uptimeYear": "6.72%",
+    "time": 17556,
+    "timeDay": 17556,
+    "timeWeek": 17556,
+    "timeMonth": 17556,
+    "timeYear": 17556,
     "dailyMinutesDown": {
-      "2025-04-15": 1
+      "2025-04-15": 15
     }
   },
   {
@@ -173,19 +173,19 @@
     "url": "https://ecocalc.linerly.xyz",
     "icon": "https://ecocalc.linerly.xyz/icons/icon.svg",
     "slug": "eco-calc",
-    "status": "down",
-    "uptime": "67.79%",
-    "uptimeDay": "67.79%",
-    "uptimeWeek": "67.79%",
-    "uptimeMonth": "67.79%",
-    "uptimeYear": "67.79%",
-    "time": 10481,
-    "timeDay": 10481,
-    "timeWeek": 10481,
-    "timeMonth": 10481,
-    "timeYear": 10481,
+    "status": "up",
+    "uptime": "5.13%",
+    "uptimeDay": "5.13%",
+    "uptimeWeek": "5.13%",
+    "uptimeMonth": "5.13%",
+    "uptimeYear": "5.13%",
+    "time": 12727,
+    "timeDay": 12727,
+    "timeWeek": 12727,
+    "timeMonth": 12727,
+    "timeYear": 12727,
     "dailyMinutesDown": {
-      "2025-04-15": 0
+      "2025-04-15": 15
     }
   },
   {
@@ -215,7 +215,7 @@
     "uptime": "87.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.13%",
+    "uptimeMonth": "69.16%",
     "uptimeYear": "84.45%",
     "time": 1029,
     "timeDay": 935,
@@ -342,7 +342,7 @@
     "timeMonth": 851,
     "timeYear": 851,
     "dailyMinutesDown": {
-      "2025-04-15": 8
+      "2025-04-15": 23
     }
   },
   {
