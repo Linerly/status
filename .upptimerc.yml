@@ -34,10 +34,6 @@ sites:
     url: https://media.linerly.xyz
     icon: https://media.linerly.xyz/apple-icon-180.png
 
-  - name: OwnTracks Frontend
-    url: https://track.linerly.xyz/favicon.ico
-    icon: "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAJgCAACYAgAAAAAAAAAAAAC1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VxPv+0cT7/tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7RxPf+9gVP/v4VZ/7RxPf+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VxPv+4eEf/5c27/+vYyv+6fE3/tXE+/7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//1rGV//78+////v7/27ui/7VzQP+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+0cDz/yZhz//nz7//+/f3//v38//v39P/Mnnr/tHA9/7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+0cT3/v4Za/+3d0f/iyLT/zJ16/8ydev/iyLT/7+DV/8CHW/+0cT3/tXI//7VyP/+1cj//tXI//7VyP/+1cj//tnNB/9/Drf/kzLr/zqKA/7l6Sv+5eUn/zJ98/+TLuP/fw63/tnNB/7VyP/+1cj//tXI//7VyP/+1cj//tXE+/72BVP/q18n/2rie//Tq4v/UrY//1KyO//Pp4f/Zt53/6tfJ/72BVP+1cT7/tXI//7VyP/+1cj//tXI//7RxPf/AiF3/6tfI/7+EWP/KmnX/0qqL/9Kqi//Kmnb/v4VZ/+rXyf/AiFz/tHE9/7VyP/+1cj//tXI//7VyP/+1cT7/unxN/+rXyf/FkGn/tHA8/9i0mf/YtJn/tHA8/8WRaf/q18n/unxN/7VxPv+1cj//tXI//7VyP/+1cj//tXI//7RxPv/Vr5L/59LC/76EWP/dvab/3b2m/76EWP/n0sL/1a+S/7RxPv+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj7/uHdG/9q5n//s2s3/5My6/+TMuv/s2sz/2rmf/7h3Rv+1cj7/tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VxPv+2c0H/w41k/9GniP/Rp4j/w41k/7ZzQf+1cT7/tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7RwPf+0cDz/tHA8/7RwPf+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//tXI//7VyP/+1cj//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
-
   - name: Home Assistant
     url: https://home.linerly.xyz
     icon: https://home.linerly.xyz/static/icons/favicon.ico
