@@ -97,11 +97,11 @@
     "url": "https://apkes.linerly.xyz",
     "icon": "https://apkes.linerly.xyz/icons/icon.svg",
     "slug": "apkes",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "94.99%",
-    "uptimeMonth": "98.09%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "98.90%",
     "time": 2228,
     "timeDay": 3312,
@@ -109,7 +109,7 @@
     "timeMonth": 2217,
     "timeYear": 1681,
     "dailyMinutesDown": {
-      "2025-10-16": 6,
+      "2025-10-16": 7,
       "2025-10-15": 105,
       "2025-10-14": 66,
       "2025-10-13": 13,
@@ -162,7 +162,7 @@
       "2025-05-09": 46,
       "2025-05-08": 32,
       "2025-05-07": 5,
-      "2025-05-05": 23
+      "2025-05-05": 18
     }
   },
   {
@@ -246,12 +246,12 @@
     "slug": "pegiatan",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "92.65%",
+    "uptimeDay": "92.88%",
     "uptimeWeek": "92.62%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "98.82%",
     "time": 1581,
-    "timeDay": 3179,
+    "timeDay": 3126,
     "timeWeek": 3215,
     "timeMonth": 2485,
     "timeYear": 1581,
@@ -311,18 +311,19 @@
     "url": "https://ecotrek.linerly.xyz",
     "icon": "https://ecotrek.linerly.xyz/icons/icons.svg",
     "slug": "eco-trek",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "93.04%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "93.00%",
     "uptimeWeek": "94.58%",
     "uptimeMonth": "98.06%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 1590,
     "timeDay": 3336,
     "timeWeek": 3057,
     "timeMonth": 2251,
     "timeYear": 1590,
     "dailyMinutesDown": {
+      "2025-10-16": 1,
       "2025-10-15": 124,
       "2025-10-14": 90,
       "2025-10-12": 198,
@@ -371,8 +372,7 @@
       "2025-05-02": 18,
       "2025-05-01": 63,
       "2025-04-30": 47,
-      "2025-04-25": 11,
-      "2025-04-23": 27
+      "2025-04-25": 11
     }
   },
   {
