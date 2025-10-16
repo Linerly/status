@@ -370,12 +370,12 @@
     "url": "https://ecocalc.linerly.xyz",
     "icon": "https://ecocalc.linerly.xyz/icons/icon.svg",
     "slug": "eco-calc",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "99.55%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "99.52%",
     "uptimeWeek": "94.15%",
     "uptimeMonth": "97.92%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 1532,
     "timeDay": 2329,
     "timeWeek": 3083,
@@ -434,8 +434,7 @@
       "2025-05-02": 17,
       "2025-05-01": 63,
       "2025-04-30": 60,
-      "2025-04-25": 11,
-      "2025-04-23": 27
+      "2025-04-25": 11
     }
   },
   {
