@@ -99,10 +99,10 @@
     "url": "https://apkes.linerly.xyz",
     "icon": "https://apkes.linerly.xyz/icons/icon.svg",
     "slug": "apkes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.37%",
     "time": 1901,
@@ -111,6 +111,7 @@
     "timeMonth": 784,
     "timeYear": 1658,
     "dailyMinutesDown": {
+      "2026-03-04": 1,
       "2026-02-19": 78,
       "2026-02-14": 1,
       "2026-02-13": 13,
@@ -157,8 +158,7 @@
       "2025-10-01": 164,
       "2025-09-26": 18,
       "2025-09-24": 11,
-      "2025-09-23": 97,
-      "2025-09-14": 8
+      "2025-09-23": 97
     }
   },
   {
@@ -166,10 +166,10 @@
     "url": "https://geora.linerly.xyz",
     "icon": "https://geora.linerly.xyz/icons/icon.svg",
     "slug": "geora",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.33%",
     "time": 1514,
@@ -178,6 +178,7 @@
     "timeMonth": 779,
     "timeYear": 1514,
     "dailyMinutesDown": {
+      "2026-03-04": 1,
       "2026-02-19": 78,
       "2026-02-14": 1,
       "2026-02-13": 13,
@@ -226,8 +227,7 @@
       "2025-09-08": 50,
       "2025-09-07": 16,
       "2025-09-04": 6,
-      "2025-09-03": 78,
-      "2025-08-31": 15
+      "2025-09-03": 78
     }
   },
   {
@@ -235,10 +235,10 @@
     "url": "https://pegiatan.linerly.xyz",
     "icon": "https://pegiatan.linerly.xyz/icons/icon.svg",
     "slug": "pegiatan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.35%",
     "time": 1527,
@@ -247,6 +247,7 @@
     "timeMonth": 720,
     "timeYear": 1527,
     "dailyMinutesDown": {
+      "2026-03-04": 1,
       "2026-02-19": 78,
       "2026-02-14": 1,
       "2026-02-13": 13,
@@ -292,8 +293,7 @@
       "2025-09-26": 18,
       "2025-09-24": 10,
       "2025-09-23": 95,
-      "2025-09-12": 17,
-      "2025-09-11": 6
+      "2025-09-12": 17
     }
   },
   {
@@ -301,19 +301,19 @@
     "url": "https://ecotrek.linerly.xyz",
     "icon": "https://ecotrek.linerly.xyz/icons/icons.svg",
     "slug": "eco-trek",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.72%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 1457,
     "timeDay": 989,
     "timeWeek": 861,
     "timeMonth": 796,
     "timeYear": 1457,
     "dailyMinutesDown": {
-      "2026-03-04": 29,
+      "2026-03-04": 30,
       "2026-02-19": 78,
       "2026-02-14": 1,
       "2026-02-13": 13,
@@ -361,7 +361,7 @@
       "2025-09-08": 43,
       "2025-09-04": 6,
       "2025-09-03": 79,
-      "2025-08-31": 34
+      "2025-08-31": 21
     }
   },
   {
@@ -369,10 +369,10 @@
     "url": "https://ecocalc.linerly.xyz",
     "icon": "https://ecocalc.linerly.xyz/icons/icon.svg",
     "slug": "eco-calc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.33%",
     "time": 1373,
@@ -381,7 +381,7 @@
     "timeMonth": 718,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2026-03-04": 29,
+      "2026-03-04": 30,
       "2026-02-19": 78,
       "2026-02-14": 1,
       "2026-02-13": 13,
@@ -430,7 +430,7 @@
       "2025-09-07": 6,
       "2025-09-04": 6,
       "2025-09-03": 78,
-      "2025-08-31": 28
+      "2025-08-31": 22
     }
   },
   {
@@ -439,11 +439,11 @@
     "icon": "https://nontrinsic.linerly.xyz/favicon.png",
     "slug": "nontrinsic",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.59%",
     "time": 744,
     "timeDay": 529,
     "timeWeek": 516,
@@ -513,11 +513,11 @@
     "icon": "https://media.linerly.xyz/apple-icon-180.png",
     "slug": "immich",
     "status": "up",
-    "uptime": "89.79%",
+    "uptime": "89.80%",
     "uptimeDay": "92.60%",
     "uptimeWeek": "93.46%",
     "uptimeMonth": "84.43%",
-    "uptimeYear": "79.89%",
+    "uptimeYear": "79.91%",
     "time": 869,
     "timeDay": 526,
     "timeWeek": 596,
@@ -836,12 +836,12 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.92%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.43%",
     "time": 609,
     "timeDay": 764,
-    "timeWeek": 718,
+    "timeWeek": 745,
     "timeMonth": 692,
     "timeYear": 648,
     "dailyMinutesDown": {
